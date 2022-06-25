@@ -257,6 +257,18 @@ void getPage(processo *p, int ut)
     printf("\n");
 }
 
+int getIdProcesso(int pid, processo *lista_processos, int numeroProcessos)
+{
+    int id;
+    for (id = 0; id < numeroProcessos; id++)
+    {
+        if (lista_processos[id].pid == pid)
+        {
+            return id;
+        }
+    }
+}
+
 void setMemoria()
 {
     for (int i = 0; i < 64; i++)
@@ -303,9 +315,9 @@ int arranjarVaga(int pid)
     return vaga;
 }
 
-void swap_in(processo *p, processo **lista_processos)
+void swap_in(processo *p, processo **lista_processos, int numeroProcessos)
 {
-    int i = 0, j = 0, vaga = -1, pidAnterior, flag = 0;
+    int i = 0, j = 0, pidAnterior, flag = 0;
     // vai tentar alocar todas as paginas
     for (i = 0; i < 4; i++)
     {
@@ -321,7 +333,7 @@ void swap_in(processo *p, processo **lista_processos)
                 // procura uma vaga pra ocupar no lugar de uma pagina de outro processo
                 vaga = arranjarVaga(p->pid);
                 pidAnterior = memoria[vaga][0];
-                processo *anterior = &lista_processos[getIdProcesso(pidAnterior)];
+                processo *anterior = lista_processos[getIdProcesso(pidAnterior, lista_processos, numeroProcessos)];
                 for (j = 0; j < 4; j++)
                 {
                     if (memoria[vaga][1] == anterior->page_table[j][1])
@@ -503,8 +515,8 @@ processo *verificaCPU(processo *cpu, Fila *altaPrioridade, Fila *baixaPrioridade
 void escalonador()
 {
     int numeroProcessos, proxEspera = 0, tempoAtual = 0, processosFinalizados = 0;
-    processo **areaEspera, *cpu;                                                    // onde guardamos os processos que ainda não foram escalonados
-    Fila *altaPrioridade, *baixaPrioridade, *discoFila, *impressoraFila, *fitaFila; // filas existentes no sistema
+    processo **areaEspera, *cpu;            // onde guardamos os processos que ainda não foram escalonados
+    Fila *altaPrioridade, *baixaPrioridade; // filas existentes no sistema
     out = fopen("out.txt", "w");
     cpu = NULL;
 
@@ -515,7 +527,7 @@ void escalonador()
     baixaPrioridade = criar_fila(numeroProcessos);
 
     // NOVO
-    inicializaMemoria();
+    setMemoria();
 
     do
     {
@@ -525,8 +537,12 @@ void escalonador()
         buscaEspera(areaEspera, altaPrioridade, tempoAtual, &proxEspera, numeroProcessos);
 
         // Gerenciamento da CPU
-        // cpu = verificaCPU(cpu, altaPrioridade, baixaPrioridade, tempoAtual, &processosFinalizados);
-
+        cpu = verificaCPU(cpu, altaPrioridade, baixaPrioridade, tempoAtual, &processosFinalizados);
+        if (tempoAtual % 3 == 0)
+        {
+            getPage(cpu, tempoAtual);
+            swap_in(cpu, areaEspera, numeroProcessos);
+        }
         tempoAtual++;
     } while (processosFinalizados < numeroProcessos);
 
