@@ -1,0 +1,120 @@
+Instante 0:
+	Processo 2 chegou na fila de alta prioridade
+	Processo 2 foi escalonado da fila de alta prioridade
+Instante 1:
+Instante 2:
+	Processo 3 chegou na fila de alta prioridade
+Instante 3:
+	Processo 2 sofreu timeout
+	Processo 3 foi escalonado da fila de alta prioridade
+Instante 4:
+Instante 5:
+	Processo 1 chegou na fila de alta prioridade
+Instante 6:
+	Processo 3 sofreu timeout
+	Processo 1 foi escalonado da fila de alta prioridade
+Instante 7:
+Instante 8:
+Instante 9:
+	Processo 1 sofreu timeout
+	Processo 2 foi escalonado da fila de baixa prioridade
+Instante 10:
+Instante 11:
+Instante 12:
+	Processo 2 sofreu timeout
+	Processo 3 foi escalonado da fila de baixa prioridade
+Instante 13:
+Instante 14:
+Instante 15:
+	Processo 3 sofreu timeout
+	Processo 1 foi escalonado da fila de baixa prioridade
+Instante 16:
+Instante 17:
+Instante 18:
+	Processo 1 sofreu timeout
+	Processo 2 foi escalonado da fila de baixa prioridade
+Instante 19:
+Instante 20:
+Instante 21:
+	Processo 2 sofreu timeout
+	Processo 3 foi escalonado da fila de baixa prioridade
+Instante 22:
+Instante 23:
+Instante 24:
+	Processo 3 sofreu timeout
+	Processo 1 foi escalonado da fila de baixa prioridade
+Instante 25:
+Instante 26:
+Instante 27:
+	Processo 1 sofreu timeout
+	Processo 2 foi escalonado da fila de baixa prioridade
+Instante 28:
+Instante 29:
+Instante 30:
+	Processo 2 sofreu timeout
+	Processo 3 foi escalonado da fila de baixa prioridade
+Instante 31:
+Instante 32:
+Instante 33:
+	Processo 3 sofreu timeout
+	Processo 1 foi escalonado da fila de baixa prioridade
+Instante 34:
+Instante 35:
+Instante 36:
+	Processo 1 sofreu timeout
+	Processo 2 foi escalonado da fila de baixa prioridade
+Instante 37:
+Instante 38:
+Instante 39:
+	Processo 2 sofreu timeout
+	Processo 3 foi escalonado da fila de baixa prioridade
+Instante 40:
+Instante 41:
+Instante 42:
+	Processo 3 sofreu timeout
+	Processo 1 foi escalonado da fila de baixa prioridade
+Instante 43:
+	Processo 1 terminou sua execução
+	Processo 2 foi escalonado da fila de baixa prioridade
+Instante 44:
+Instante 45:
+Instante 46:
+	Processo 2 sofreu timeout
+	Processo 3 foi escalonado da fila de baixa prioridade
+Instante 47:
+Instante 48:
+Instante 49:
+	Processo 3 sofreu timeout
+	Processo 2 foi escalonado da fila de baixa prioridade
+Instante 50:
+Instante 51:
+Instante 52:
+	Processo 2 sofreu timeout
+	Processo 3 foi escalonado da fila de baixa prioridade
+Instante 53:
+Instante 54:
+Instante 55:
+	Processo 3 sofreu timeout
+	Processo 2 foi escalonado da fila de baixa prioridade
+Instante 56:
+Instante 57:
+Instante 58:
+	Processo 2 sofreu timeout
+	Processo 3 foi escalonado da fila de baixa prioridade
+Instante 59:
+Instante 60:
+Instante 61:
+	Processo 3 sofreu timeout
+	Processo 2 foi escalonado da fila de baixa prioridade
+Instante 62:
+Instante 63:
+Instante 64:
+	Processo 2 sofreu timeout
+	Processo 3 foi escalonado da fila de baixa prioridade
+Instante 65:
+Instante 66:
+	Processo 3 terminou sua execução
+	Processo 2 foi escalonado da fila de baixa prioridade
+Instante 67:
+Instante 68:
+	Processo 2 terminou sua execução
