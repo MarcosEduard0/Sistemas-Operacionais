@@ -1,8 +1,8 @@
-all: memoria 
-	./memoria
+all: gerenciador 
+	./gerenciador
 
-memoria: memoria.c
-	gcc -o memoria -Wall 
+gerenciador: gerenciador.c
+	gcc -o gerenciador gerenciador.c -lpthread -Wall 
 	
 clean:
-	rm memoria
+	rm gerenciador

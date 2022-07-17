@@ -1,0 +1,7141 @@
+Processo 1 criado
+PROCESSO 1: Pedindo alocação da pagina 43
+
+LRU: [43]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 43]		|
+|1:		vazio			|
+|2:		vazio			|
+|3:		vazio			|
+|4:		vazio			|
+|5:		vazio			|
+|6:		vazio			|
+|7:		vazio			|
+|8:		vazio			|
+|9:		vazio			|
+|10:		vazio			|
+|11:		vazio			|
+|12:		vazio			|
+|13:		vazio			|
+|14:		vazio			|
+|15:		vazio			|
+|16:		vazio			|
+|17:		vazio			|
+|18:		vazio			|
+|19:		vazio			|
+|20:		vazio			|
+|21:		vazio			|
+|22:		vazio			|
+|23:		vazio			|
+|24:		vazio			|
+|25:		vazio			|
+|26:		vazio			|
+|27:		vazio			|
+|28:		vazio			|
+|29:		vazio			|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Livre			|
+|14: 		Livre			|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Livre			|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Livre			|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Livre			|
+|28: 		Livre			|
+|29: 		Livre			|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Livre			|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Em memoria		|
+|44: 		Livre			|
+|45: 		Livre			|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+PROCESSO 1: Pedindo alocação da pagina 0
+
+LRU: [0, 43]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 43]		|
+|1:	   [Pid: 1, Page: 0]		|
+|2:		vazio			|
+|3:		vazio			|
+|4:		vazio			|
+|5:		vazio			|
+|6:		vazio			|
+|7:		vazio			|
+|8:		vazio			|
+|9:		vazio			|
+|10:		vazio			|
+|11:		vazio			|
+|12:		vazio			|
+|13:		vazio			|
+|14:		vazio			|
+|15:		vazio			|
+|16:		vazio			|
+|17:		vazio			|
+|18:		vazio			|
+|19:		vazio			|
+|20:		vazio			|
+|21:		vazio			|
+|22:		vazio			|
+|23:		vazio			|
+|24:		vazio			|
+|25:		vazio			|
+|26:		vazio			|
+|27:		vazio			|
+|28:		vazio			|
+|29:		vazio			|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Em memoria		|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Livre			|
+|14: 		Livre			|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Livre			|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Livre			|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Livre			|
+|28: 		Livre			|
+|29: 		Livre			|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Livre			|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Em memoria		|
+|44: 		Livre			|
+|45: 		Livre			|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+Processo 2 criado
+PROCESSO 2: Pedindo alocação da pagina 18
+
+LRU: [18]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 43]		|
+|1:	   [Pid: 1, Page: 0]		|
+|2:	   [Pid: 2, Page: 18]		|
+|3:		vazio			|
+|4:		vazio			|
+|5:		vazio			|
+|6:		vazio			|
+|7:		vazio			|
+|8:		vazio			|
+|9:		vazio			|
+|10:		vazio			|
+|11:		vazio			|
+|12:		vazio			|
+|13:		vazio			|
+|14:		vazio			|
+|15:		vazio			|
+|16:		vazio			|
+|17:		vazio			|
+|18:		vazio			|
+|19:		vazio			|
+|20:		vazio			|
+|21:		vazio			|
+|22:		vazio			|
+|23:		vazio			|
+|24:		vazio			|
+|25:		vazio			|
+|26:		vazio			|
+|27:		vazio			|
+|28:		vazio			|
+|29:		vazio			|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Livre			|
+|14: 		Livre			|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Em memoria		|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Livre			|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Livre			|
+|28: 		Livre			|
+|29: 		Livre			|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Livre			|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Livre			|
+|44: 		Livre			|
+|45: 		Livre			|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+PROCESSO 1: Pedindo alocação da pagina 47
+
+LRU: [47, 0, 43]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 43]		|
+|1:	   [Pid: 1, Page: 0]		|
+|2:	   [Pid: 2, Page: 18]		|
+|3:	   [Pid: 1, Page: 47]		|
+|4:		vazio			|
+|5:		vazio			|
+|6:		vazio			|
+|7:		vazio			|
+|8:		vazio			|
+|9:		vazio			|
+|10:		vazio			|
+|11:		vazio			|
+|12:		vazio			|
+|13:		vazio			|
+|14:		vazio			|
+|15:		vazio			|
+|16:		vazio			|
+|17:		vazio			|
+|18:		vazio			|
+|19:		vazio			|
+|20:		vazio			|
+|21:		vazio			|
+|22:		vazio			|
+|23:		vazio			|
+|24:		vazio			|
+|25:		vazio			|
+|26:		vazio			|
+|27:		vazio			|
+|28:		vazio			|
+|29:		vazio			|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Em memoria		|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Livre			|
+|14: 		Livre			|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Livre			|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Livre			|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Livre			|
+|28: 		Livre			|
+|29: 		Livre			|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Livre			|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Em memoria		|
+|44: 		Livre			|
+|45: 		Livre			|
+|46: 		Livre			|
+|47: 		Em memoria		|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+Processo 3 criado
+PROCESSO 3: Pedindo alocação da pagina 14
+
+LRU: [14]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 43]		|
+|1:	   [Pid: 1, Page: 0]		|
+|2:	   [Pid: 2, Page: 18]		|
+|3:	   [Pid: 1, Page: 47]		|
+|4:	   [Pid: 3, Page: 14]		|
+|5:		vazio			|
+|6:		vazio			|
+|7:		vazio			|
+|8:		vazio			|
+|9:		vazio			|
+|10:		vazio			|
+|11:		vazio			|
+|12:		vazio			|
+|13:		vazio			|
+|14:		vazio			|
+|15:		vazio			|
+|16:		vazio			|
+|17:		vazio			|
+|18:		vazio			|
+|19:		vazio			|
+|20:		vazio			|
+|21:		vazio			|
+|22:		vazio			|
+|23:		vazio			|
+|24:		vazio			|
+|25:		vazio			|
+|26:		vazio			|
+|27:		vazio			|
+|28:		vazio			|
+|29:		vazio			|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Livre			|
+|14: 		Em memoria		|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Livre			|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Livre			|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Livre			|
+|28: 		Livre			|
+|29: 		Livre			|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Livre			|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Livre			|
+|44: 		Livre			|
+|45: 		Livre			|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+PROCESSO 2: Pedindo alocação da pagina 43
+
+LRU: [43, 18]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 43]		|
+|1:	   [Pid: 1, Page: 0]		|
+|2:	   [Pid: 2, Page: 18]		|
+|3:	   [Pid: 1, Page: 47]		|
+|4:	   [Pid: 3, Page: 14]		|
+|5:	   [Pid: 2, Page: 43]		|
+|6:		vazio			|
+|7:		vazio			|
+|8:		vazio			|
+|9:		vazio			|
+|10:		vazio			|
+|11:		vazio			|
+|12:		vazio			|
+|13:		vazio			|
+|14:		vazio			|
+|15:		vazio			|
+|16:		vazio			|
+|17:		vazio			|
+|18:		vazio			|
+|19:		vazio			|
+|20:		vazio			|
+|21:		vazio			|
+|22:		vazio			|
+|23:		vazio			|
+|24:		vazio			|
+|25:		vazio			|
+|26:		vazio			|
+|27:		vazio			|
+|28:		vazio			|
+|29:		vazio			|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Livre			|
+|14: 		Livre			|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Em memoria		|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Livre			|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Livre			|
+|28: 		Livre			|
+|29: 		Livre			|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Livre			|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Em memoria		|
+|44: 		Livre			|
+|45: 		Livre			|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+PROCESSO 2: Pedindo alocação da pagina 28
+
+LRU: [28, 43, 18]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 43]		|
+|1:	   [Pid: 1, Page: 0]		|
+|2:	   [Pid: 2, Page: 18]		|
+|3:	   [Pid: 1, Page: 47]		|
+|4:	   [Pid: 3, Page: 14]		|
+|5:	   [Pid: 2, Page: 43]		|
+|6:	   [Pid: 2, Page: 28]		|
+|7:		vazio			|
+|8:		vazio			|
+|9:		vazio			|
+|10:		vazio			|
+|11:		vazio			|
+|12:		vazio			|
+|13:		vazio			|
+|14:		vazio			|
+|15:		vazio			|
+|16:		vazio			|
+|17:		vazio			|
+|18:		vazio			|
+|19:		vazio			|
+|20:		vazio			|
+|21:		vazio			|
+|22:		vazio			|
+|23:		vazio			|
+|24:		vazio			|
+|25:		vazio			|
+|26:		vazio			|
+|27:		vazio			|
+|28:		vazio			|
+|29:		vazio			|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Livre			|
+|14: 		Livre			|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Em memoria		|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Livre			|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Livre			|
+|28: 		Em memoria		|
+|29: 		Livre			|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Livre			|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Em memoria		|
+|44: 		Livre			|
+|45: 		Livre			|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+PROCESSO 1: Pedindo alocação da pagina 37
+
+LRU: [37, 47, 0, 43]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 43]		|
+|1:	   [Pid: 1, Page: 0]		|
+|2:	   [Pid: 2, Page: 18]		|
+|3:	   [Pid: 1, Page: 47]		|
+|4:	   [Pid: 3, Page: 14]		|
+|5:	   [Pid: 2, Page: 43]		|
+|6:	   [Pid: 2, Page: 28]		|
+|7:	   [Pid: 1, Page: 37]		|
+|8:		vazio			|
+|9:		vazio			|
+|10:		vazio			|
+|11:		vazio			|
+|12:		vazio			|
+|13:		vazio			|
+|14:		vazio			|
+|15:		vazio			|
+|16:		vazio			|
+|17:		vazio			|
+|18:		vazio			|
+|19:		vazio			|
+|20:		vazio			|
+|21:		vazio			|
+|22:		vazio			|
+|23:		vazio			|
+|24:		vazio			|
+|25:		vazio			|
+|26:		vazio			|
+|27:		vazio			|
+|28:		vazio			|
+|29:		vazio			|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Em memoria		|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Livre			|
+|14: 		Livre			|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Livre			|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Livre			|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Livre			|
+|28: 		Livre			|
+|29: 		Livre			|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Em memoria		|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Em memoria		|
+|44: 		Livre			|
+|45: 		Livre			|
+|46: 		Livre			|
+|47: 		Em memoria		|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+Processo 4 criado
+PROCESSO 4: Pedindo alocação da pagina 37
+
+LRU: [37]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 43]		|
+|1:	   [Pid: 1, Page: 0]		|
+|2:	   [Pid: 2, Page: 18]		|
+|3:	   [Pid: 1, Page: 47]		|
+|4:	   [Pid: 3, Page: 14]		|
+|5:	   [Pid: 2, Page: 43]		|
+|6:	   [Pid: 2, Page: 28]		|
+|7:	   [Pid: 1, Page: 37]		|
+|8:	   [Pid: 4, Page: 37]		|
+|9:		vazio			|
+|10:		vazio			|
+|11:		vazio			|
+|12:		vazio			|
+|13:		vazio			|
+|14:		vazio			|
+|15:		vazio			|
+|16:		vazio			|
+|17:		vazio			|
+|18:		vazio			|
+|19:		vazio			|
+|20:		vazio			|
+|21:		vazio			|
+|22:		vazio			|
+|23:		vazio			|
+|24:		vazio			|
+|25:		vazio			|
+|26:		vazio			|
+|27:		vazio			|
+|28:		vazio			|
+|29:		vazio			|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Livre			|
+|14: 		Livre			|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Livre			|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Livre			|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Livre			|
+|28: 		Livre			|
+|29: 		Livre			|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Em memoria		|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Livre			|
+|44: 		Livre			|
+|45: 		Livre			|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+PROCESSO 3: Pedindo alocação da pagina 0
+
+LRU: [0, 14]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 43]		|
+|1:	   [Pid: 1, Page: 0]		|
+|2:	   [Pid: 2, Page: 18]		|
+|3:	   [Pid: 1, Page: 47]		|
+|4:	   [Pid: 3, Page: 14]		|
+|5:	   [Pid: 2, Page: 43]		|
+|6:	   [Pid: 2, Page: 28]		|
+|7:	   [Pid: 1, Page: 37]		|
+|8:	   [Pid: 4, Page: 37]		|
+|9:	   [Pid: 3, Page: 0]		|
+|10:		vazio			|
+|11:		vazio			|
+|12:		vazio			|
+|13:		vazio			|
+|14:		vazio			|
+|15:		vazio			|
+|16:		vazio			|
+|17:		vazio			|
+|18:		vazio			|
+|19:		vazio			|
+|20:		vazio			|
+|21:		vazio			|
+|22:		vazio			|
+|23:		vazio			|
+|24:		vazio			|
+|25:		vazio			|
+|26:		vazio			|
+|27:		vazio			|
+|28:		vazio			|
+|29:		vazio			|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Em memoria		|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Livre			|
+|14: 		Em memoria		|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Livre			|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Livre			|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Livre			|
+|28: 		Livre			|
+|29: 		Livre			|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Livre			|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Livre			|
+|44: 		Livre			|
+|45: 		Livre			|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+PROCESSO 1: Pedindo alocação da pagina 27
+
+LRU: [27, 37, 47, 0]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 27]		|
+|1:	   [Pid: 1, Page: 0]		|
+|2:	   [Pid: 2, Page: 18]		|
+|3:	   [Pid: 1, Page: 47]		|
+|4:	   [Pid: 3, Page: 14]		|
+|5:	   [Pid: 2, Page: 43]		|
+|6:	   [Pid: 2, Page: 28]		|
+|7:	   [Pid: 1, Page: 37]		|
+|8:	   [Pid: 4, Page: 37]		|
+|9:	   [Pid: 3, Page: 0]		|
+|10:		vazio			|
+|11:		vazio			|
+|12:		vazio			|
+|13:		vazio			|
+|14:		vazio			|
+|15:		vazio			|
+|16:		vazio			|
+|17:		vazio			|
+|18:		vazio			|
+|19:		vazio			|
+|20:		vazio			|
+|21:		vazio			|
+|22:		vazio			|
+|23:		vazio			|
+|24:		vazio			|
+|25:		vazio			|
+|26:		vazio			|
+|27:		vazio			|
+|28:		vazio			|
+|29:		vazio			|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Em memoria		|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Livre			|
+|14: 		Livre			|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Livre			|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Livre			|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Em memoria		|
+|28: 		Livre			|
+|29: 		Livre			|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Em memoria		|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Livre			|
+|44: 		Livre			|
+|45: 		Livre			|
+|46: 		Livre			|
+|47: 		Em memoria		|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+PROCESSO 2: Pedindo alocação da pagina 37
+
+LRU: [37, 28, 43, 18]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 27]		|
+|1:	   [Pid: 1, Page: 0]		|
+|2:	   [Pid: 2, Page: 18]		|
+|3:	   [Pid: 1, Page: 47]		|
+|4:	   [Pid: 3, Page: 14]		|
+|5:	   [Pid: 2, Page: 43]		|
+|6:	   [Pid: 2, Page: 28]		|
+|7:	   [Pid: 1, Page: 37]		|
+|8:	   [Pid: 4, Page: 37]		|
+|9:	   [Pid: 3, Page: 0]		|
+|10:	   [Pid: 2, Page: 37]		|
+|11:		vazio			|
+|12:		vazio			|
+|13:		vazio			|
+|14:		vazio			|
+|15:		vazio			|
+|16:		vazio			|
+|17:		vazio			|
+|18:		vazio			|
+|19:		vazio			|
+|20:		vazio			|
+|21:		vazio			|
+|22:		vazio			|
+|23:		vazio			|
+|24:		vazio			|
+|25:		vazio			|
+|26:		vazio			|
+|27:		vazio			|
+|28:		vazio			|
+|29:		vazio			|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Livre			|
+|14: 		Livre			|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Em memoria		|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Livre			|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Livre			|
+|28: 		Em memoria		|
+|29: 		Livre			|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Em memoria		|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Em memoria		|
+|44: 		Livre			|
+|45: 		Livre			|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+Processo 5 criado
+SWAP: []
+
+PROCESSO 4: Pedindo alocação da pagina 29
+
+LRU: [29, 37]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 27]		|
+|1:	   [Pid: 1, Page: 0]		|
+|2:	   [Pid: 2, Page: 18]		|
+|3:	   [Pid: 1, Page: 47]		|
+|4:	   [Pid: 3, Page: 14]		|
+|5:	   [Pid: 2, Page: 43]		|
+|6:	   [Pid: 2, Page: 28]		|
+|7:	   [Pid: 1, Page: 37]		|
+|8:	   [Pid: 4, Page: 37]		|
+|9:	   [Pid: 3, Page: 0]		|
+|10:	   [Pid: 2, Page: 37]		|
+|11:	   [Pid: 4, Page: 29]		|
+|12:		vazio			|
+|13:		vazio			|
+|14:		vazio			|
+|15:		vazio			|
+|16:		vazio			|
+|17:		vazio			|
+|18:		vazio			|
+|19:		vazio			|
+|20:		vazio			|
+|21:		vazio			|
+|22:		vazio			|
+|23:		vazio			|
+|24:		vazio			|
+|25:		vazio			|
+|26:		vazio			|
+|27:		vazio			|
+|28:		vazio			|
+|29:		vazio			|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Livre			|
+|14: 		Livre			|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Livre			|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Livre			|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Livre			|
+|28: 		Livre			|
+|29: 		Em memoria		|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Em memoria		|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Livre			|
+|44: 		Livre			|
+|45: 		Livre			|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+PROCESSO 3: Pedindo alocação da pagina 15
+
+LRU: [15, 0, 14]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 27]		|
+|1:	   [Pid: 1, Page: 0]		|
+|2:	   [Pid: 2, Page: 18]		|
+|3:	   [Pid: 1, Page: 47]		|
+|4:	   [Pid: 3, Page: 14]		|
+|5:	   [Pid: 2, Page: 43]		|
+|6:	   [Pid: 2, Page: 28]		|
+|7:	   [Pid: 1, Page: 37]		|
+|8:	   [Pid: 4, Page: 37]		|
+|9:	   [Pid: 3, Page: 0]		|
+|10:	   [Pid: 2, Page: 37]		|
+|11:	   [Pid: 4, Page: 29]		|
+|12:	   [Pid: 3, Page: 15]		|
+|13:		vazio			|
+|14:		vazio			|
+|15:		vazio			|
+|16:		vazio			|
+|17:		vazio			|
+|18:		vazio			|
+|19:		vazio			|
+|20:		vazio			|
+|21:		vazio			|
+|22:		vazio			|
+|23:		vazio			|
+|24:		vazio			|
+|25:		vazio			|
+|26:		vazio			|
+|27:		vazio			|
+|28:		vazio			|
+|29:		vazio			|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Em memoria		|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Livre			|
+|14: 		Em memoria		|
+|15: 		Em memoria		|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Livre			|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Livre			|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Livre			|
+|28: 		Livre			|
+|29: 		Livre			|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Livre			|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Livre			|
+|44: 		Livre			|
+|45: 		Livre			|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+PROCESSO 5: Pedindo alocação da pagina 7
+
+LRU: [7]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 27]		|
+|1:	   [Pid: 1, Page: 0]		|
+|2:	   [Pid: 2, Page: 18]		|
+|3:	   [Pid: 1, Page: 47]		|
+|4:	   [Pid: 3, Page: 14]		|
+|5:	   [Pid: 2, Page: 43]		|
+|6:	   [Pid: 2, Page: 28]		|
+|7:	   [Pid: 1, Page: 37]		|
+|8:	   [Pid: 4, Page: 37]		|
+|9:	   [Pid: 3, Page: 0]		|
+|10:	   [Pid: 2, Page: 37]		|
+|11:	   [Pid: 4, Page: 29]		|
+|12:	   [Pid: 3, Page: 15]		|
+|13:	   [Pid: 5, Page: 7]		|
+|14:		vazio			|
+|15:		vazio			|
+|16:		vazio			|
+|17:		vazio			|
+|18:		vazio			|
+|19:		vazio			|
+|20:		vazio			|
+|21:		vazio			|
+|22:		vazio			|
+|23:		vazio			|
+|24:		vazio			|
+|25:		vazio			|
+|26:		vazio			|
+|27:		vazio			|
+|28:		vazio			|
+|29:		vazio			|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Livre			|
+|7: 		Em memoria		|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Livre			|
+|14: 		Livre			|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Livre			|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Livre			|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Livre			|
+|28: 		Livre			|
+|29: 		Livre			|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Livre			|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Livre			|
+|44: 		Livre			|
+|45: 		Livre			|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+PROCESSO 1: Pedindo alocação da pagina 21
+
+LRU: [21, 27, 37, 47]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 27]		|
+|1:	   [Pid: 1, Page: 21]		|
+|2:	   [Pid: 2, Page: 18]		|
+|3:	   [Pid: 1, Page: 47]		|
+|4:	   [Pid: 3, Page: 14]		|
+|5:	   [Pid: 2, Page: 43]		|
+|6:	   [Pid: 2, Page: 28]		|
+|7:	   [Pid: 1, Page: 37]		|
+|8:	   [Pid: 4, Page: 37]		|
+|9:	   [Pid: 3, Page: 0]		|
+|10:	   [Pid: 2, Page: 37]		|
+|11:	   [Pid: 4, Page: 29]		|
+|12:	   [Pid: 3, Page: 15]		|
+|13:	   [Pid: 5, Page: 7]		|
+|14:		vazio			|
+|15:		vazio			|
+|16:		vazio			|
+|17:		vazio			|
+|18:		vazio			|
+|19:		vazio			|
+|20:		vazio			|
+|21:		vazio			|
+|22:		vazio			|
+|23:		vazio			|
+|24:		vazio			|
+|25:		vazio			|
+|26:		vazio			|
+|27:		vazio			|
+|28:		vazio			|
+|29:		vazio			|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Livre			|
+|14: 		Livre			|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Livre			|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Em memoria		|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Em memoria		|
+|28: 		Livre			|
+|29: 		Livre			|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Em memoria		|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Livre			|
+|44: 		Livre			|
+|45: 		Livre			|
+|46: 		Livre			|
+|47: 		Em memoria		|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+Processo 6 criado
+PROCESSO 6: Pedindo alocação da pagina 23
+
+LRU: [23]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 27]		|
+|1:	   [Pid: 1, Page: 21]		|
+|2:	   [Pid: 2, Page: 18]		|
+|3:	   [Pid: 1, Page: 47]		|
+|4:	   [Pid: 3, Page: 14]		|
+|5:	   [Pid: 2, Page: 43]		|
+|6:	   [Pid: 2, Page: 28]		|
+|7:	   [Pid: 1, Page: 37]		|
+|8:	   [Pid: 4, Page: 37]		|
+|9:	   [Pid: 3, Page: 0]		|
+|10:	   [Pid: 2, Page: 37]		|
+|11:	   [Pid: 4, Page: 29]		|
+|12:	   [Pid: 3, Page: 15]		|
+|13:	   [Pid: 5, Page: 7]		|
+|14:	   [Pid: 6, Page: 23]		|
+|15:		vazio			|
+|16:		vazio			|
+|17:		vazio			|
+|18:		vazio			|
+|19:		vazio			|
+|20:		vazio			|
+|21:		vazio			|
+|22:		vazio			|
+|23:		vazio			|
+|24:		vazio			|
+|25:		vazio			|
+|26:		vazio			|
+|27:		vazio			|
+|28:		vazio			|
+|29:		vazio			|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Livre			|
+|14: 		Livre			|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Livre			|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Livre			|
+|22: 		Livre			|
+|23: 		Em memoria		|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Livre			|
+|28: 		Livre			|
+|29: 		Livre			|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Livre			|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Livre			|
+|44: 		Livre			|
+|45: 		Livre			|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+PROCESSO 4: Pedindo alocação da pagina 17
+
+LRU: [17, 29, 37]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 27]		|
+|1:	   [Pid: 1, Page: 21]		|
+|2:	   [Pid: 2, Page: 18]		|
+|3:	   [Pid: 1, Page: 47]		|
+|4:	   [Pid: 3, Page: 14]		|
+|5:	   [Pid: 2, Page: 43]		|
+|6:	   [Pid: 2, Page: 28]		|
+|7:	   [Pid: 1, Page: 37]		|
+|8:	   [Pid: 4, Page: 37]		|
+|9:	   [Pid: 3, Page: 0]		|
+|10:	   [Pid: 2, Page: 37]		|
+|11:	   [Pid: 4, Page: 29]		|
+|12:	   [Pid: 3, Page: 15]		|
+|13:	   [Pid: 5, Page: 7]		|
+|14:	   [Pid: 6, Page: 23]		|
+|15:	   [Pid: 4, Page: 17]		|
+|16:		vazio			|
+|17:		vazio			|
+|18:		vazio			|
+|19:		vazio			|
+|20:		vazio			|
+|21:		vazio			|
+|22:		vazio			|
+|23:		vazio			|
+|24:		vazio			|
+|25:		vazio			|
+|26:		vazio			|
+|27:		vazio			|
+|28:		vazio			|
+|29:		vazio			|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Livre			|
+|14: 		Livre			|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Em memoria		|
+|18: 		Livre			|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Livre			|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Livre			|
+|28: 		Livre			|
+|29: 		Em memoria		|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Em memoria		|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Livre			|
+|44: 		Livre			|
+|45: 		Livre			|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+PROCESSO 2: Pedindo alocação da pagina 45
+
+LRU: [45, 37, 28, 43]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 27]		|
+|1:	   [Pid: 1, Page: 21]		|
+|2:	   [Pid: 2, Page: 45]		|
+|3:	   [Pid: 1, Page: 47]		|
+|4:	   [Pid: 3, Page: 14]		|
+|5:	   [Pid: 2, Page: 43]		|
+|6:	   [Pid: 2, Page: 28]		|
+|7:	   [Pid: 1, Page: 37]		|
+|8:	   [Pid: 4, Page: 37]		|
+|9:	   [Pid: 3, Page: 0]		|
+|10:	   [Pid: 2, Page: 37]		|
+|11:	   [Pid: 4, Page: 29]		|
+|12:	   [Pid: 3, Page: 15]		|
+|13:	   [Pid: 5, Page: 7]		|
+|14:	   [Pid: 6, Page: 23]		|
+|15:	   [Pid: 4, Page: 17]		|
+|16:		vazio			|
+|17:		vazio			|
+|18:		vazio			|
+|19:		vazio			|
+|20:		vazio			|
+|21:		vazio			|
+|22:		vazio			|
+|23:		vazio			|
+|24:		vazio			|
+|25:		vazio			|
+|26:		vazio			|
+|27:		vazio			|
+|28:		vazio			|
+|29:		vazio			|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Livre			|
+|14: 		Livre			|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Livre			|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Livre			|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Livre			|
+|28: 		Em memoria		|
+|29: 		Livre			|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Em memoria		|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Em memoria		|
+|44: 		Livre			|
+|45: 		Em memoria		|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+PROCESSO 3: Pedindo alocação da pagina 44
+
+LRU: [44, 15, 0, 14]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 27]		|
+|1:	   [Pid: 1, Page: 21]		|
+|2:	   [Pid: 2, Page: 45]		|
+|3:	   [Pid: 1, Page: 47]		|
+|4:	   [Pid: 3, Page: 14]		|
+|5:	   [Pid: 2, Page: 43]		|
+|6:	   [Pid: 2, Page: 28]		|
+|7:	   [Pid: 1, Page: 37]		|
+|8:	   [Pid: 4, Page: 37]		|
+|9:	   [Pid: 3, Page: 0]		|
+|10:	   [Pid: 2, Page: 37]		|
+|11:	   [Pid: 4, Page: 29]		|
+|12:	   [Pid: 3, Page: 15]		|
+|13:	   [Pid: 5, Page: 7]		|
+|14:	   [Pid: 6, Page: 23]		|
+|15:	   [Pid: 4, Page: 17]		|
+|16:	   [Pid: 3, Page: 44]		|
+|17:		vazio			|
+|18:		vazio			|
+|19:		vazio			|
+|20:		vazio			|
+|21:		vazio			|
+|22:		vazio			|
+|23:		vazio			|
+|24:		vazio			|
+|25:		vazio			|
+|26:		vazio			|
+|27:		vazio			|
+|28:		vazio			|
+|29:		vazio			|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Em memoria		|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Livre			|
+|14: 		Em memoria		|
+|15: 		Em memoria		|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Livre			|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Livre			|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Livre			|
+|28: 		Livre			|
+|29: 		Livre			|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Livre			|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Livre			|
+|44: 		Em memoria		|
+|45: 		Livre			|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+PROCESSO 5: Pedindo alocação da pagina 14
+
+LRU: [14, 7]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 27]		|
+|1:	   [Pid: 1, Page: 21]		|
+|2:	   [Pid: 2, Page: 45]		|
+|3:	   [Pid: 1, Page: 47]		|
+|4:	   [Pid: 3, Page: 14]		|
+|5:	   [Pid: 2, Page: 43]		|
+|6:	   [Pid: 2, Page: 28]		|
+|7:	   [Pid: 1, Page: 37]		|
+|8:	   [Pid: 4, Page: 37]		|
+|9:	   [Pid: 3, Page: 0]		|
+|10:	   [Pid: 2, Page: 37]		|
+|11:	   [Pid: 4, Page: 29]		|
+|12:	   [Pid: 3, Page: 15]		|
+|13:	   [Pid: 5, Page: 7]		|
+|14:	   [Pid: 6, Page: 23]		|
+|15:	   [Pid: 4, Page: 17]		|
+|16:	   [Pid: 3, Page: 44]		|
+|17:	   [Pid: 5, Page: 14]		|
+|18:		vazio			|
+|19:		vazio			|
+|20:		vazio			|
+|21:		vazio			|
+|22:		vazio			|
+|23:		vazio			|
+|24:		vazio			|
+|25:		vazio			|
+|26:		vazio			|
+|27:		vazio			|
+|28:		vazio			|
+|29:		vazio			|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Livre			|
+|7: 		Em memoria		|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Livre			|
+|14: 		Em memoria		|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Livre			|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Livre			|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Livre			|
+|28: 		Livre			|
+|29: 		Livre			|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Livre			|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Livre			|
+|44: 		Livre			|
+|45: 		Livre			|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+PROCESSO 6: Pedindo alocação da pagina 13
+
+LRU: [13, 23]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 27]		|
+|1:	   [Pid: 1, Page: 21]		|
+|2:	   [Pid: 2, Page: 45]		|
+|3:	   [Pid: 1, Page: 47]		|
+|4:	   [Pid: 3, Page: 14]		|
+|5:	   [Pid: 2, Page: 43]		|
+|6:	   [Pid: 2, Page: 28]		|
+|7:	   [Pid: 1, Page: 37]		|
+|8:	   [Pid: 4, Page: 37]		|
+|9:	   [Pid: 3, Page: 0]		|
+|10:	   [Pid: 2, Page: 37]		|
+|11:	   [Pid: 4, Page: 29]		|
+|12:	   [Pid: 3, Page: 15]		|
+|13:	   [Pid: 5, Page: 7]		|
+|14:	   [Pid: 6, Page: 23]		|
+|15:	   [Pid: 4, Page: 17]		|
+|16:	   [Pid: 3, Page: 44]		|
+|17:	   [Pid: 5, Page: 14]		|
+|18:	   [Pid: 6, Page: 13]		|
+|19:		vazio			|
+|20:		vazio			|
+|21:		vazio			|
+|22:		vazio			|
+|23:		vazio			|
+|24:		vazio			|
+|25:		vazio			|
+|26:		vazio			|
+|27:		vazio			|
+|28:		vazio			|
+|29:		vazio			|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Em memoria		|
+|14: 		Livre			|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Livre			|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Livre			|
+|22: 		Livre			|
+|23: 		Em memoria		|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Livre			|
+|28: 		Livre			|
+|29: 		Livre			|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Livre			|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Livre			|
+|44: 		Livre			|
+|45: 		Livre			|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+PROCESSO 1: Pedindo alocação da pagina 43
+
+LRU: [43, 21, 27, 37]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 27]		|
+|1:	   [Pid: 1, Page: 21]		|
+|2:	   [Pid: 2, Page: 45]		|
+|3:	   [Pid: 1, Page: 43]		|
+|4:	   [Pid: 3, Page: 14]		|
+|5:	   [Pid: 2, Page: 43]		|
+|6:	   [Pid: 2, Page: 28]		|
+|7:	   [Pid: 1, Page: 37]		|
+|8:	   [Pid: 4, Page: 37]		|
+|9:	   [Pid: 3, Page: 0]		|
+|10:	   [Pid: 2, Page: 37]		|
+|11:	   [Pid: 4, Page: 29]		|
+|12:	   [Pid: 3, Page: 15]		|
+|13:	   [Pid: 5, Page: 7]		|
+|14:	   [Pid: 6, Page: 23]		|
+|15:	   [Pid: 4, Page: 17]		|
+|16:	   [Pid: 3, Page: 44]		|
+|17:	   [Pid: 5, Page: 14]		|
+|18:	   [Pid: 6, Page: 13]		|
+|19:		vazio			|
+|20:		vazio			|
+|21:		vazio			|
+|22:		vazio			|
+|23:		vazio			|
+|24:		vazio			|
+|25:		vazio			|
+|26:		vazio			|
+|27:		vazio			|
+|28:		vazio			|
+|29:		vazio			|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Livre			|
+|14: 		Livre			|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Livre			|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Em memoria		|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Em memoria		|
+|28: 		Livre			|
+|29: 		Livre			|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Em memoria		|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Em memoria		|
+|44: 		Livre			|
+|45: 		Livre			|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+PROCESSO 4: Pedindo alocação da pagina 40
+
+LRU: [40, 17, 29, 37]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 27]		|
+|1:	   [Pid: 1, Page: 21]		|
+|2:	   [Pid: 2, Page: 45]		|
+|3:	   [Pid: 1, Page: 43]		|
+|4:	   [Pid: 3, Page: 14]		|
+|5:	   [Pid: 2, Page: 43]		|
+|6:	   [Pid: 2, Page: 28]		|
+|7:	   [Pid: 1, Page: 37]		|
+|8:	   [Pid: 4, Page: 37]		|
+|9:	   [Pid: 3, Page: 0]		|
+|10:	   [Pid: 2, Page: 37]		|
+|11:	   [Pid: 4, Page: 29]		|
+|12:	   [Pid: 3, Page: 15]		|
+|13:	   [Pid: 5, Page: 7]		|
+|14:	   [Pid: 6, Page: 23]		|
+|15:	   [Pid: 4, Page: 17]		|
+|16:	   [Pid: 3, Page: 44]		|
+|17:	   [Pid: 5, Page: 14]		|
+|18:	   [Pid: 6, Page: 13]		|
+|19:	   [Pid: 4, Page: 40]		|
+|20:		vazio			|
+|21:		vazio			|
+|22:		vazio			|
+|23:		vazio			|
+|24:		vazio			|
+|25:		vazio			|
+|26:		vazio			|
+|27:		vazio			|
+|28:		vazio			|
+|29:		vazio			|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Livre			|
+|14: 		Livre			|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Em memoria		|
+|18: 		Livre			|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Livre			|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Livre			|
+|28: 		Livre			|
+|29: 		Em memoria		|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Em memoria		|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Em memoria		|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Livre			|
+|44: 		Livre			|
+|45: 		Livre			|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+PROCESSO 5: Pedindo alocação da pagina 6
+
+PROCESSO 2: Pedindo alocação da pagina 13
+
+LRU: [13, 45, 37, 28]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 27]		|
+|1:	   [Pid: 1, Page: 21]		|
+|2:	   [Pid: 2, Page: 45]		|
+|3:	   [Pid: 1, Page: 43]		|
+|4:	   [Pid: 3, Page: 14]		|
+|5:	   [Pid: 2, Page: 13]		|
+|6:	   [Pid: 2, Page: 28]		|
+|7:	   [Pid: 1, Page: 37]		|
+|8:	   [Pid: 4, Page: 37]		|
+|9:	   [Pid: 3, Page: 0]		|
+|10:	   [Pid: 2, Page: 37]		|
+|11:	   [Pid: 4, Page: 29]		|
+|12:	   [Pid: 3, Page: 15]		|
+|13:	   [Pid: 5, Page: 7]		|
+|14:	   [Pid: 6, Page: 23]		|
+|15:	   [Pid: 4, Page: 17]		|
+|16:	   [Pid: 3, Page: 44]		|
+|17:	   [Pid: 5, Page: 14]		|
+|18:	   [Pid: 6, Page: 13]		|
+|19:	   [Pid: 4, Page: 40]		|
+|20:	   [Pid: 5, Page: 6]		|
+|21:		vazio			|
+|22:		vazio			|
+|23:		vazio			|
+|24:		vazio			|
+|25:		vazio			|
+|26:		vazio			|
+|27:		vazio			|
+|28:		vazio			|
+|29:		vazio			|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Em memoria		|
+|14: 		Livre			|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Livre			|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Livre			|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Livre			|
+|28: 		Em memoria		|
+|29: 		Livre			|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Em memoria		|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Livre			|
+|44: 		Livre			|
+|45: 		Em memoria		|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+PROCESSO 3: Pedindo alocação da pagina 27
+
+LRU: [27, 44, 15, 0]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 27]		|
+|1:	   [Pid: 1, Page: 21]		|
+|2:	   [Pid: 2, Page: 45]		|
+|3:	   [Pid: 1, Page: 43]		|
+|4:	   [Pid: 3, Page: 27]		|
+|5:	   [Pid: 2, Page: 13]		|
+|6:	   [Pid: 2, Page: 28]		|
+|7:	   [Pid: 1, Page: 37]		|
+|8:	   [Pid: 4, Page: 37]		|
+|9:	   [Pid: 3, Page: 0]		|
+|10:	   [Pid: 2, Page: 37]		|
+|11:	   [Pid: 4, Page: 29]		|
+|12:	   [Pid: 3, Page: 15]		|
+|13:	   [Pid: 5, Page: 7]		|
+|14:	   [Pid: 6, Page: 23]		|
+|15:	   [Pid: 4, Page: 17]		|
+|16:	   [Pid: 3, Page: 44]		|
+|17:	   [Pid: 5, Page: 14]		|
+|18:	   [Pid: 6, Page: 13]		|
+|19:	   [Pid: 4, Page: 40]		|
+|20:	   [Pid: 5, Page: 6]		|
+|21:		vazio			|
+|22:		vazio			|
+|23:		vazio			|
+|24:		vazio			|
+|25:		vazio			|
+|26:		vazio			|
+|27:		vazio			|
+|28:		vazio			|
+|29:		vazio			|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Em memoria		|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Livre			|
+|14: 		Livre			|
+|15: 		Em memoria		|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Livre			|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Livre			|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Em memoria		|
+|28: 		Livre			|
+|29: 		Livre			|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Livre			|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Livre			|
+|44: 		Em memoria		|
+|45: 		Livre			|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+LRU: [6, 14, 7]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 27]		|
+|1:	   [Pid: 1, Page: 21]		|
+|2:	   [Pid: 2, Page: 45]		|
+|3:	   [Pid: 1, Page: 43]		|
+|4:	   [Pid: 3, Page: 27]		|
+|5:	   [Pid: 2, Page: 13]		|
+|6:	   [Pid: 2, Page: 28]		|
+|7:	   [Pid: 1, Page: 37]		|
+|8:	   [Pid: 4, Page: 37]		|
+|9:	   [Pid: 3, Page: 0]		|
+|10:	   [Pid: 2, Page: 37]		|
+|11:	   [Pid: 4, Page: 29]		|
+|12:	   [Pid: 3, Page: 15]		|
+|13:	   [Pid: 5, Page: 7]		|
+|14:	   [Pid: 6, Page: 23]		|
+|15:	   [Pid: 4, Page: 17]		|
+|16:	   [Pid: 3, Page: 44]		|
+|17:	   [Pid: 5, Page: 14]		|
+|18:	   [Pid: 6, Page: 13]		|
+|19:	   [Pid: 4, Page: 40]		|
+|20:	   [Pid: 5, Page: 6]		|
+|21:		vazio			|
+|22:		vazio			|
+|23:		vazio			|
+|24:		vazio			|
+|25:		vazio			|
+|26:		vazio			|
+|27:		vazio			|
+|28:		vazio			|
+|29:		vazio			|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Em memoria		|
+|7: 		Em memoria		|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Livre			|
+|14: 		Em memoria		|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Livre			|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Livre			|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Livre			|
+|28: 		Livre			|
+|29: 		Livre			|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Livre			|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Livre			|
+|44: 		Livre			|
+|45: 		Livre			|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+Processo 7 criado
+PROCESSO 7: Pedindo alocação da pagina 3
+
+LRU: [3]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 27]		|
+|1:	   [Pid: 1, Page: 21]		|
+|2:	   [Pid: 2, Page: 45]		|
+|3:	   [Pid: 1, Page: 43]		|
+|4:	   [Pid: 3, Page: 27]		|
+|5:	   [Pid: 2, Page: 13]		|
+|6:	   [Pid: 2, Page: 28]		|
+|7:	   [Pid: 1, Page: 37]		|
+|8:	   [Pid: 4, Page: 37]		|
+|9:	   [Pid: 3, Page: 0]		|
+|10:	   [Pid: 2, Page: 37]		|
+|11:	   [Pid: 4, Page: 29]		|
+|12:	   [Pid: 3, Page: 15]		|
+|13:	   [Pid: 5, Page: 7]		|
+|14:	   [Pid: 6, Page: 23]		|
+|15:	   [Pid: 4, Page: 17]		|
+|16:	   [Pid: 3, Page: 44]		|
+|17:	   [Pid: 5, Page: 14]		|
+|18:	   [Pid: 6, Page: 13]		|
+|19:	   [Pid: 4, Page: 40]		|
+|20:	   [Pid: 5, Page: 6]		|
+|21:	   [Pid: 7, Page: 3]		|
+|22:		vazio			|
+|23:		vazio			|
+|24:		vazio			|
+|25:		vazio			|
+|26:		vazio			|
+|27:		vazio			|
+|28:		vazio			|
+|29:		vazio			|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Em memoria		|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Livre			|
+|14: 		Livre			|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Livre			|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Livre			|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Livre			|
+|28: 		Livre			|
+|29: 		Livre			|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Livre			|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Livre			|
+|44: 		Livre			|
+|45: 		Livre			|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+PROCESSO 6: Pedindo alocação da pagina 10
+
+LRU: [10, 13, 23]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 27]		|
+|1:	   [Pid: 1, Page: 21]		|
+|2:	   [Pid: 2, Page: 45]		|
+|3:	   [Pid: 1, Page: 43]		|
+|4:	   [Pid: 3, Page: 27]		|
+|5:	   [Pid: 2, Page: 13]		|
+|6:	   [Pid: 2, Page: 28]		|
+|7:	   [Pid: 1, Page: 37]		|
+|8:	   [Pid: 4, Page: 37]		|
+|9:	   [Pid: 3, Page: 0]		|
+|10:	   [Pid: 2, Page: 37]		|
+|11:	   [Pid: 4, Page: 29]		|
+|12:	   [Pid: 3, Page: 15]		|
+|13:	   [Pid: 5, Page: 7]		|
+|14:	   [Pid: 6, Page: 23]		|
+|15:	   [Pid: 4, Page: 17]		|
+|16:	   [Pid: 3, Page: 44]		|
+|17:	   [Pid: 5, Page: 14]		|
+|18:	   [Pid: 6, Page: 13]		|
+|19:	   [Pid: 4, Page: 40]		|
+|20:	   [Pid: 5, Page: 6]		|
+|21:	   [Pid: 7, Page: 3]		|
+|22:	   [Pid: 6, Page: 10]		|
+|23:		vazio			|
+|24:		vazio			|
+|25:		vazio			|
+|26:		vazio			|
+|27:		vazio			|
+|28:		vazio			|
+|29:		vazio			|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Em memoria		|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Em memoria		|
+|14: 		Livre			|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Livre			|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Livre			|
+|22: 		Livre			|
+|23: 		Em memoria		|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Livre			|
+|28: 		Livre			|
+|29: 		Livre			|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Livre			|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Livre			|
+|44: 		Livre			|
+|45: 		Livre			|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+PROCESSO 1: Pedindo alocação da pagina 26
+
+LRU: [26, 43, 21, 27]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 27]		|
+|1:	   [Pid: 1, Page: 21]		|
+|2:	   [Pid: 2, Page: 45]		|
+|3:	   [Pid: 1, Page: 43]		|
+|4:	   [Pid: 3, Page: 27]		|
+|5:	   [Pid: 2, Page: 13]		|
+|6:	   [Pid: 2, Page: 28]		|
+|7:	   [Pid: 1, Page: 26]		|
+|8:	   [Pid: 4, Page: 37]		|
+|9:	   [Pid: 3, Page: 0]		|
+|10:	   [Pid: 2, Page: 37]		|
+|11:	   [Pid: 4, Page: 29]		|
+|12:	   [Pid: 3, Page: 15]		|
+|13:	   [Pid: 5, Page: 7]		|
+|14:	   [Pid: 6, Page: 23]		|
+|15:	   [Pid: 4, Page: 17]		|
+|16:	   [Pid: 3, Page: 44]		|
+|17:	   [Pid: 5, Page: 14]		|
+|18:	   [Pid: 6, Page: 13]		|
+|19:	   [Pid: 4, Page: 40]		|
+|20:	   [Pid: 5, Page: 6]		|
+|21:	   [Pid: 7, Page: 3]		|
+|22:	   [Pid: 6, Page: 10]		|
+|23:		vazio			|
+|24:		vazio			|
+|25:		vazio			|
+|26:		vazio			|
+|27:		vazio			|
+|28:		vazio			|
+|29:		vazio			|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Livre			|
+|14: 		Livre			|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Livre			|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Em memoria		|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Em memoria		|
+|27: 		Em memoria		|
+|28: 		Livre			|
+|29: 		Livre			|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Livre			|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Em memoria		|
+|44: 		Livre			|
+|45: 		Livre			|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+PROCESSO 4: Pedindo alocação da pagina 9
+
+LRU: [9, 40, 17, 29]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 27]		|
+|1:	   [Pid: 1, Page: 21]		|
+|2:	   [Pid: 2, Page: 45]		|
+|3:	   [Pid: 1, Page: 43]		|
+|4:	   [Pid: 3, Page: 27]		|
+|5:	   [Pid: 2, Page: 13]		|
+|6:	   [Pid: 2, Page: 28]		|
+|7:	   [Pid: 1, Page: 26]		|
+|8:	   [Pid: 4, Page: 9]		|
+|9:	   [Pid: 3, Page: 0]		|
+|10:	   [Pid: 2, Page: 37]		|
+|11:	   [Pid: 4, Page: 29]		|
+|12:	   [Pid: 3, Page: 15]		|
+|13:	   [Pid: 5, Page: 7]		|
+|14:	   [Pid: 6, Page: 23]		|
+|15:	   [Pid: 4, Page: 17]		|
+|16:	   [Pid: 3, Page: 44]		|
+|17:	   [Pid: 5, Page: 14]		|
+|18:	   [Pid: 6, Page: 13]		|
+|19:	   [Pid: 4, Page: 40]		|
+|20:	   [Pid: 5, Page: 6]		|
+|21:	   [Pid: 7, Page: 3]		|
+|22:	   [Pid: 6, Page: 10]		|
+|23:		vazio			|
+|24:		vazio			|
+|25:		vazio			|
+|26:		vazio			|
+|27:		vazio			|
+|28:		vazio			|
+|29:		vazio			|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Em memoria		|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Livre			|
+|14: 		Livre			|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Em memoria		|
+|18: 		Livre			|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Livre			|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Livre			|
+|28: 		Livre			|
+|29: 		Em memoria		|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Livre			|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Em memoria		|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Livre			|
+|44: 		Livre			|
+|45: 		Livre			|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+PROCESSO 2: Pedindo alocação da pagina 5
+
+LRU: [5, 13, 45, 37]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 27]		|
+|1:	   [Pid: 1, Page: 21]		|
+|2:	   [Pid: 2, Page: 45]		|
+|3:	   [Pid: 1, Page: 43]		|
+|4:	   [Pid: 3, Page: 27]		|
+|5:	   [Pid: 2, Page: 13]		|
+|6:	   [Pid: 2, Page: 5]		|
+|7:	   [Pid: 1, Page: 26]		|
+|8:	   [Pid: 4, Page: 9]		|
+|9:	   [Pid: 3, Page: 0]		|
+|10:	   [Pid: 2, Page: 37]		|
+|11:	   [Pid: 4, Page: 29]		|
+|12:	   [Pid: 3, Page: 15]		|
+|13:	   [Pid: 5, Page: 7]		|
+|14:	   [Pid: 6, Page: 23]		|
+|15:	   [Pid: 4, Page: 17]		|
+|16:	   [Pid: 3, Page: 44]		|
+|17:	   [Pid: 5, Page: 14]		|
+|18:	   [Pid: 6, Page: 13]		|
+|19:	   [Pid: 4, Page: 40]		|
+|20:	   [Pid: 5, Page: 6]		|
+|21:	   [Pid: 7, Page: 3]		|
+|22:	   [Pid: 6, Page: 10]		|
+|23:		vazio			|
+|24:		vazio			|
+|25:		vazio			|
+|26:		vazio			|
+|27:		vazio			|
+|28:		vazio			|
+|29:		vazio			|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+|5: 		Em memoria		|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Em memoria		|
+|14: 		Livre			|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Livre			|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Livre			|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Livre			|
+|28: 		Livre			|
+|29: 		Livre			|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Em memoria		|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Livre			|
+|44: 		Livre			|
+|45: 		Em memoria		|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+PROCESSO 3: Pedindo alocação da pagina 29
+
+LRU: [29, 27, 44, 15]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 27]		|
+|1:	   [Pid: 1, Page: 21]		|
+|2:	   [Pid: 2, Page: 45]		|
+|3:	   [Pid: 1, Page: 43]		|
+|4:	   [Pid: 3, Page: 27]		|
+|5:	   [Pid: 2, Page: 13]		|
+|6:	   [Pid: 2, Page: 5]		|
+|7:	   [Pid: 1, Page: 26]		|
+|8:	   [Pid: 4, Page: 9]		|
+|9:	   [Pid: 3, Page: 29]		|
+|10:	   [Pid: 2, Page: 37]		|
+|11:	   [Pid: 4, Page: 29]		|
+|12:	   [Pid: 3, Page: 15]		|
+|13:	   [Pid: 5, Page: 7]		|
+|14:	   [Pid: 6, Page: 23]		|
+|15:	   [Pid: 4, Page: 17]		|
+|16:	   [Pid: 3, Page: 44]		|
+|17:	   [Pid: 5, Page: 14]		|
+|18:	   [Pid: 6, Page: 13]		|
+|19:	   [Pid: 4, Page: 40]		|
+|20:	   [Pid: 5, Page: 6]		|
+|21:	   [Pid: 7, Page: 3]		|
+|22:	   [Pid: 6, Page: 10]		|
+|23:		vazio			|
+|24:		vazio			|
+|25:		vazio			|
+|26:		vazio			|
+|27:		vazio			|
+|28:		vazio			|
+|29:		vazio			|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Livre			|
+|14: 		Livre			|
+|15: 		Em memoria		|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Livre			|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Livre			|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Em memoria		|
+|28: 		Livre			|
+|29: 		Em memoria		|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Livre			|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Livre			|
+|44: 		Em memoria		|
+|45: 		Livre			|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+PROCESSO 5: Pedindo alocação da pagina 29
+
+LRU: [29, 6, 14, 7]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 27]		|
+|1:	   [Pid: 1, Page: 21]		|
+|2:	   [Pid: 2, Page: 45]		|
+|3:	   [Pid: 1, Page: 43]		|
+|4:	   [Pid: 3, Page: 27]		|
+|5:	   [Pid: 2, Page: 13]		|
+|6:	   [Pid: 2, Page: 5]		|
+|7:	   [Pid: 1, Page: 26]		|
+|8:	   [Pid: 4, Page: 9]		|
+|9:	   [Pid: 3, Page: 29]		|
+|10:	   [Pid: 2, Page: 37]		|
+|11:	   [Pid: 4, Page: 29]		|
+|12:	   [Pid: 3, Page: 15]		|
+|13:	   [Pid: 5, Page: 7]		|
+|14:	   [Pid: 6, Page: 23]		|
+|15:	   [Pid: 4, Page: 17]		|
+|16:	   [Pid: 3, Page: 44]		|
+|17:	   [Pid: 5, Page: 14]		|
+|18:	   [Pid: 6, Page: 13]		|
+|19:	   [Pid: 4, Page: 40]		|
+|20:	   [Pid: 5, Page: 6]		|
+|21:	   [Pid: 7, Page: 3]		|
+|22:	   [Pid: 6, Page: 10]		|
+|23:	   [Pid: 5, Page: 29]		|
+|24:		vazio			|
+|25:		vazio			|
+|26:		vazio			|
+|27:		vazio			|
+|28:		vazio			|
+|29:		vazio			|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Em memoria		|
+|7: 		Em memoria		|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Livre			|
+|14: 		Em memoria		|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Livre			|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Livre			|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Livre			|
+|28: 		Livre			|
+|29: 		Em memoria		|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Livre			|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Livre			|
+|44: 		Livre			|
+|45: 		Livre			|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+Processo 8 criado
+PROCESSO 8: Pedindo alocação da pagina 2
+
+LRU: [2]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 27]		|
+|1:	   [Pid: 1, Page: 21]		|
+|2:	   [Pid: 2, Page: 45]		|
+|3:	   [Pid: 1, Page: 43]		|
+|4:	   [Pid: 3, Page: 27]		|
+|5:	   [Pid: 2, Page: 13]		|
+|6:	   [Pid: 2, Page: 5]		|
+|7:	   [Pid: 1, Page: 26]		|
+|8:	   [Pid: 4, Page: 9]		|
+|9:	   [Pid: 3, Page: 29]		|
+|10:	   [Pid: 2, Page: 37]		|
+|11:	   [Pid: 4, Page: 29]		|
+|12:	   [Pid: 3, Page: 15]		|
+|13:	   [Pid: 5, Page: 7]		|
+|14:	   [Pid: 6, Page: 23]		|
+|15:	   [Pid: 4, Page: 17]		|
+|16:	   [Pid: 3, Page: 44]		|
+|17:	   [Pid: 5, Page: 14]		|
+|18:	   [Pid: 6, Page: 13]		|
+|19:	   [Pid: 4, Page: 40]		|
+|20:	   [Pid: 5, Page: 6]		|
+|21:	   [Pid: 7, Page: 3]		|
+|22:	   [Pid: 6, Page: 10]		|
+|23:	   [Pid: 5, Page: 29]		|
+|24:	   [Pid: 8, Page: 2]		|
+|25:		vazio			|
+|26:		vazio			|
+|27:		vazio			|
+|28:		vazio			|
+|29:		vazio			|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Em memoria		|
+|3: 		Livre			|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Livre			|
+|14: 		Livre			|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Livre			|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Livre			|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Livre			|
+|28: 		Livre			|
+|29: 		Livre			|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Livre			|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Livre			|
+|44: 		Livre			|
+|45: 		Livre			|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+PROCESSO 7: Pedindo alocação da pagina 24
+
+LRU: [24, 3]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 27]		|
+|1:	   [Pid: 1, Page: 21]		|
+|2:	   [Pid: 2, Page: 45]		|
+|3:	   [Pid: 1, Page: 43]		|
+|4:	   [Pid: 3, Page: 27]		|
+|5:	   [Pid: 2, Page: 13]		|
+|6:	   [Pid: 2, Page: 5]		|
+|7:	   [Pid: 1, Page: 26]		|
+|8:	   [Pid: 4, Page: 9]		|
+|9:	   [Pid: 3, Page: 29]		|
+|10:	   [Pid: 2, Page: 37]		|
+|11:	   [Pid: 4, Page: 29]		|
+|12:	   [Pid: 3, Page: 15]		|
+|13:	   [Pid: 5, Page: 7]		|
+|14:	   [Pid: 6, Page: 23]		|
+|15:	   [Pid: 4, Page: 17]		|
+|16:	   [Pid: 3, Page: 44]		|
+|17:	   [Pid: 5, Page: 14]		|
+|18:	   [Pid: 6, Page: 13]		|
+|19:	   [Pid: 4, Page: 40]		|
+|20:	   [Pid: 5, Page: 6]		|
+|21:	   [Pid: 7, Page: 3]		|
+|22:	   [Pid: 6, Page: 10]		|
+|23:	   [Pid: 5, Page: 29]		|
+|24:	   [Pid: 8, Page: 2]		|
+|25:	   [Pid: 7, Page: 24]		|
+|26:		vazio			|
+|27:		vazio			|
+|28:		vazio			|
+|29:		vazio			|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Em memoria		|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Livre			|
+|14: 		Livre			|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Livre			|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Livre			|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Em memoria		|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Livre			|
+|28: 		Livre			|
+|29: 		Livre			|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Livre			|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Livre			|
+|44: 		Livre			|
+|45: 		Livre			|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+PROCESSO 6: Pedindo alocação da pagina 44
+
+LRU: [44, 10, 13, 23]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 27]		|
+|1:	   [Pid: 1, Page: 21]		|
+|2:	   [Pid: 2, Page: 45]		|
+|3:	   [Pid: 1, Page: 43]		|
+|4:	   [Pid: 3, Page: 27]		|
+|5:	   [Pid: 2, Page: 13]		|
+|6:	   [Pid: 2, Page: 5]		|
+|7:	   [Pid: 1, Page: 26]		|
+|8:	   [Pid: 4, Page: 9]		|
+|9:	   [Pid: 3, Page: 29]		|
+|10:	   [Pid: 2, Page: 37]		|
+|11:	   [Pid: 4, Page: 29]		|
+|12:	   [Pid: 3, Page: 15]		|
+|13:	   [Pid: 5, Page: 7]		|
+|14:	   [Pid: 6, Page: 23]		|
+|15:	   [Pid: 4, Page: 17]		|
+|16:	   [Pid: 3, Page: 44]		|
+|17:	   [Pid: 5, Page: 14]		|
+|18:	   [Pid: 6, Page: 13]		|
+|19:	   [Pid: 4, Page: 40]		|
+|20:	   [Pid: 5, Page: 6]		|
+|21:	   [Pid: 7, Page: 3]		|
+|22:	   [Pid: 6, Page: 10]		|
+|23:	   [Pid: 5, Page: 29]		|
+|24:	   [Pid: 8, Page: 2]		|
+|25:	   [Pid: 7, Page: 24]		|
+|26:	   [Pid: 6, Page: 44]		|
+|27:		vazio			|
+|28:		vazio			|
+|29:		vazio			|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Em memoria		|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Em memoria		|
+|14: 		Livre			|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Livre			|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Livre			|
+|22: 		Livre			|
+|23: 		Em memoria		|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Livre			|
+|28: 		Livre			|
+|29: 		Livre			|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Livre			|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Livre			|
+|44: 		Em memoria		|
+|45: 		Livre			|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+PROCESSO 1: Pedindo alocação da pagina 32
+
+LRU: [32, 26, 43, 21]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 32]		|
+|1:	   [Pid: 1, Page: 21]		|
+|2:	   [Pid: 2, Page: 45]		|
+|3:	   [Pid: 1, Page: 43]		|
+|4:	   [Pid: 3, Page: 27]		|
+|5:	   [Pid: 2, Page: 13]		|
+|6:	   [Pid: 2, Page: 5]		|
+|7:	   [Pid: 1, Page: 26]		|
+|8:	   [Pid: 4, Page: 9]		|
+|9:	   [Pid: 3, Page: 29]		|
+|10:	   [Pid: 2, Page: 37]		|
+|11:	   [Pid: 4, Page: 29]		|
+|12:	   [Pid: 3, Page: 15]		|
+|13:	   [Pid: 5, Page: 7]		|
+|14:	   [Pid: 6, Page: 23]		|
+|15:	   [Pid: 4, Page: 17]		|
+|16:	   [Pid: 3, Page: 44]		|
+|17:	   [Pid: 5, Page: 14]		|
+|18:	   [Pid: 6, Page: 13]		|
+|19:	   [Pid: 4, Page: 40]		|
+|20:	   [Pid: 5, Page: 6]		|
+|21:	   [Pid: 7, Page: 3]		|
+|22:	   [Pid: 6, Page: 10]		|
+|23:	   [Pid: 5, Page: 29]		|
+|24:	   [Pid: 8, Page: 2]		|
+|25:	   [Pid: 7, Page: 24]		|
+|26:	   [Pid: 6, Page: 44]		|
+|27:		vazio			|
+|28:		vazio			|
+|29:		vazio			|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Livre			|
+|14: 		Livre			|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Livre			|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Em memoria		|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Em memoria		|
+|27: 		Livre			|
+|28: 		Livre			|
+|29: 		Livre			|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Em memoria		|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Livre			|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Em memoria		|
+|44: 		Livre			|
+|45: 		Livre			|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+PROCESSO 4: Pedindo alocação da pagina 24
+
+LRU: [24, 9, 40, 17]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 32]		|
+|1:	   [Pid: 1, Page: 21]		|
+|2:	   [Pid: 2, Page: 45]		|
+|3:	   [Pid: 1, Page: 43]		|
+|4:	   [Pid: 3, Page: 27]		|
+|5:	   [Pid: 2, Page: 13]		|
+|6:	   [Pid: 2, Page: 5]		|
+|7:	   [Pid: 1, Page: 26]		|
+|8:	   [Pid: 4, Page: 9]		|
+|9:	   [Pid: 3, Page: 29]		|
+|10:	   [Pid: 2, Page: 37]		|
+|11:	   [Pid: 4, Page: 24]		|
+|12:	   [Pid: 3, Page: 15]		|
+|13:	   [Pid: 5, Page: 7]		|
+|14:	   [Pid: 6, Page: 23]		|
+|15:	   [Pid: 4, Page: 17]		|
+|16:	   [Pid: 3, Page: 44]		|
+|17:	   [Pid: 5, Page: 14]		|
+|18:	   [Pid: 6, Page: 13]		|
+|19:	   [Pid: 4, Page: 40]		|
+|20:	   [Pid: 5, Page: 6]		|
+|21:	   [Pid: 7, Page: 3]		|
+|22:	   [Pid: 6, Page: 10]		|
+|23:	   [Pid: 5, Page: 29]		|
+|24:	   [Pid: 8, Page: 2]		|
+|25:	   [Pid: 7, Page: 24]		|
+|26:	   [Pid: 6, Page: 44]		|
+|27:		vazio			|
+|28:		vazio			|
+|29:		vazio			|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Em memoria		|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Livre			|
+|14: 		Livre			|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Em memoria		|
+|18: 		Livre			|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Livre			|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Em memoria		|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Livre			|
+|28: 		Livre			|
+|29: 		Livre			|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Livre			|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Em memoria		|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Livre			|
+|44: 		Livre			|
+|45: 		Livre			|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+PROCESSO 2: Pedindo alocação da pagina 33
+
+LRU: [33, 5, 13, 45]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 32]		|
+|1:	   [Pid: 1, Page: 21]		|
+|2:	   [Pid: 2, Page: 45]		|
+|3:	   [Pid: 1, Page: 43]		|
+|4:	   [Pid: 3, Page: 27]		|
+|5:	   [Pid: 2, Page: 13]		|
+|6:	   [Pid: 2, Page: 5]		|
+|7:	   [Pid: 1, Page: 26]		|
+|8:	   [Pid: 4, Page: 9]		|
+|9:	   [Pid: 3, Page: 29]		|
+|10:	   [Pid: 2, Page: 33]		|
+|11:	   [Pid: 4, Page: 24]		|
+|12:	   [Pid: 3, Page: 15]		|
+|13:	   [Pid: 5, Page: 7]		|
+|14:	   [Pid: 6, Page: 23]		|
+|15:	   [Pid: 4, Page: 17]		|
+|16:	   [Pid: 3, Page: 44]		|
+|17:	   [Pid: 5, Page: 14]		|
+|18:	   [Pid: 6, Page: 13]		|
+|19:	   [Pid: 4, Page: 40]		|
+|20:	   [Pid: 5, Page: 6]		|
+|21:	   [Pid: 7, Page: 3]		|
+|22:	   [Pid: 6, Page: 10]		|
+|23:	   [Pid: 5, Page: 29]		|
+|24:	   [Pid: 8, Page: 2]		|
+|25:	   [Pid: 7, Page: 24]		|
+|26:	   [Pid: 6, Page: 44]		|
+|27:		vazio			|
+|28:		vazio			|
+|29:		vazio			|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+|5: 		Em memoria		|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Em memoria		|
+|14: 		Livre			|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Livre			|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Livre			|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Livre			|
+|28: 		Livre			|
+|29: 		Livre			|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Em memoria		|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Livre			|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Livre			|
+|44: 		Livre			|
+|45: 		Em memoria		|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+PROCESSO 3: Pedindo alocação da pagina 19
+
+LRU: [19, 29, 27, 44]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 32]		|
+|1:	   [Pid: 1, Page: 21]		|
+|2:	   [Pid: 2, Page: 45]		|
+|3:	   [Pid: 1, Page: 43]		|
+|4:	   [Pid: 3, Page: 27]		|
+|5:	   [Pid: 2, Page: 13]		|
+|6:	   [Pid: 2, Page: 5]		|
+|7:	   [Pid: 1, Page: 26]		|
+|8:	   [Pid: 4, Page: 9]		|
+|9:	   [Pid: 3, Page: 29]		|
+|10:	   [Pid: 2, Page: 33]		|
+|11:	   [Pid: 4, Page: 24]		|
+|12:	   [Pid: 3, Page: 19]		|
+|13:	   [Pid: 5, Page: 7]		|
+|14:	   [Pid: 6, Page: 23]		|
+|15:	   [Pid: 4, Page: 17]		|
+|16:	   [Pid: 3, Page: 44]		|
+|17:	   [Pid: 5, Page: 14]		|
+|18:	   [Pid: 6, Page: 13]		|
+|19:	   [Pid: 4, Page: 40]		|
+|20:	   [Pid: 5, Page: 6]		|
+|21:	   [Pid: 7, Page: 3]		|
+|22:	   [Pid: 6, Page: 10]		|
+|23:	   [Pid: 5, Page: 29]		|
+|24:	   [Pid: 8, Page: 2]		|
+|25:	   [Pid: 7, Page: 24]		|
+|26:	   [Pid: 6, Page: 44]		|
+|27:		vazio			|
+|28:		vazio			|
+|29:		vazio			|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Livre			|
+|14: 		Livre			|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Livre			|
+|19: 		Em memoria		|
+|20: 		Livre			|
+|21: 		Livre			|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Em memoria		|
+|28: 		Livre			|
+|29: 		Em memoria		|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Livre			|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Livre			|
+|44: 		Em memoria		|
+|45: 		Livre			|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+PROCESSO 5: Pedindo alocação da pagina 4
+
+LRU: [4, 29, 6, 14]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 32]		|
+|1:	   [Pid: 1, Page: 21]		|
+|2:	   [Pid: 2, Page: 45]		|
+|3:	   [Pid: 1, Page: 43]		|
+|4:	   [Pid: 3, Page: 27]		|
+|5:	   [Pid: 2, Page: 13]		|
+|6:	   [Pid: 2, Page: 5]		|
+|7:	   [Pid: 1, Page: 26]		|
+|8:	   [Pid: 4, Page: 9]		|
+|9:	   [Pid: 3, Page: 29]		|
+|10:	   [Pid: 2, Page: 33]		|
+|11:	   [Pid: 4, Page: 24]		|
+|12:	   [Pid: 3, Page: 19]		|
+|13:	   [Pid: 5, Page: 4]		|
+|14:	   [Pid: 6, Page: 23]		|
+|15:	   [Pid: 4, Page: 17]		|
+|16:	   [Pid: 3, Page: 44]		|
+|17:	   [Pid: 5, Page: 14]		|
+|18:	   [Pid: 6, Page: 13]		|
+|19:	   [Pid: 4, Page: 40]		|
+|20:	   [Pid: 5, Page: 6]		|
+|21:	   [Pid: 7, Page: 3]		|
+|22:	   [Pid: 6, Page: 10]		|
+|23:	   [Pid: 5, Page: 29]		|
+|24:	   [Pid: 8, Page: 2]		|
+|25:	   [Pid: 7, Page: 24]		|
+|26:	   [Pid: 6, Page: 44]		|
+|27:		vazio			|
+|28:		vazio			|
+|29:		vazio			|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Em memoria		|
+|5: 		Livre			|
+|6: 		Em memoria		|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Livre			|
+|14: 		Em memoria		|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Livre			|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Livre			|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Livre			|
+|28: 		Livre			|
+|29: 		Em memoria		|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Livre			|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Livre			|
+|44: 		Livre			|
+|45: 		Livre			|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+Processo 9 criado
+PROCESSO 9: Pedindo alocação da pagina 20
+
+LRU: [20]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 32]		|
+|1:	   [Pid: 1, Page: 21]		|
+|2:	   [Pid: 2, Page: 45]		|
+|3:	   [Pid: 1, Page: 43]		|
+|4:	   [Pid: 3, Page: 27]		|
+|5:	   [Pid: 2, Page: 13]		|
+|6:	   [Pid: 2, Page: 5]		|
+|7:	   [Pid: 1, Page: 26]		|
+|8:	   [Pid: 4, Page: 9]		|
+|9:	   [Pid: 3, Page: 29]		|
+|10:	   [Pid: 2, Page: 33]		|
+|11:	   [Pid: 4, Page: 24]		|
+|12:	   [Pid: 3, Page: 19]		|
+|13:	   [Pid: 5, Page: 4]		|
+|14:	   [Pid: 6, Page: 23]		|
+|15:	   [Pid: 4, Page: 17]		|
+|16:	   [Pid: 3, Page: 44]		|
+|17:	   [Pid: 5, Page: 14]		|
+|18:	   [Pid: 6, Page: 13]		|
+|19:	   [Pid: 4, Page: 40]		|
+|20:	   [Pid: 5, Page: 6]		|
+|21:	   [Pid: 7, Page: 3]		|
+|22:	   [Pid: 6, Page: 10]		|
+|23:	   [Pid: 5, Page: 29]		|
+|24:	   [Pid: 8, Page: 2]		|
+|25:	   [Pid: 7, Page: 24]		|
+|26:	   [Pid: 6, Page: 44]		|
+|27:	   [Pid: 9, Page: 20]		|
+|28:		vazio			|
+|29:		vazio			|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Livre			|
+|14: 		Livre			|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Livre			|
+|19: 		Livre			|
+|20: 		Em memoria		|
+|21: 		Livre			|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Livre			|
+|28: 		Livre			|
+|29: 		Livre			|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Livre			|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Livre			|
+|44: 		Livre			|
+|45: 		Livre			|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+PROCESSO 8: Pedindo alocação da pagina 48
+
+LRU: [48, 2]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 32]		|
+|1:	   [Pid: 1, Page: 21]		|
+|2:	   [Pid: 2, Page: 45]		|
+|3:	   [Pid: 1, Page: 43]		|
+|4:	   [Pid: 3, Page: 27]		|
+|5:	   [Pid: 2, Page: 13]		|
+|6:	   [Pid: 2, Page: 5]		|
+|7:	   [Pid: 1, Page: 26]		|
+|8:	   [Pid: 4, Page: 9]		|
+|9:	   [Pid: 3, Page: 29]		|
+|10:	   [Pid: 2, Page: 33]		|
+|11:	   [Pid: 4, Page: 24]		|
+|12:	   [Pid: 3, Page: 19]		|
+|13:	   [Pid: 5, Page: 4]		|
+|14:	   [Pid: 6, Page: 23]		|
+|15:	   [Pid: 4, Page: 17]		|
+|16:	   [Pid: 3, Page: 44]		|
+|17:	   [Pid: 5, Page: 14]		|
+|18:	   [Pid: 6, Page: 13]		|
+|19:	   [Pid: 4, Page: 40]		|
+|20:	   [Pid: 5, Page: 6]		|
+|21:	   [Pid: 7, Page: 3]		|
+|22:	   [Pid: 6, Page: 10]		|
+|23:	   [Pid: 5, Page: 29]		|
+|24:	   [Pid: 8, Page: 2]		|
+|25:	   [Pid: 7, Page: 24]		|
+|26:	   [Pid: 6, Page: 44]		|
+|27:	   [Pid: 9, Page: 20]		|
+|28:	   [Pid: 8, Page: 48]		|
+|29:		vazio			|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Em memoria		|
+|3: 		Livre			|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Livre			|
+|14: 		Livre			|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Livre			|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Livre			|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Livre			|
+|28: 		Livre			|
+|29: 		Livre			|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Livre			|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Livre			|
+|44: 		Livre			|
+|45: 		Livre			|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Em memoria		|
+|49: 		Livre			|
+
+
+SWAP: []
+
+PROCESSO 7: Pedindo alocação da pagina 21
+
+LRU: [21, 24, 3]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 32]		|
+|1:	   [Pid: 1, Page: 21]		|
+|2:	   [Pid: 2, Page: 45]		|
+|3:	   [Pid: 1, Page: 43]		|
+|4:	   [Pid: 3, Page: 27]		|
+|5:	   [Pid: 2, Page: 13]		|
+|6:	   [Pid: 2, Page: 5]		|
+|7:	   [Pid: 1, Page: 26]		|
+|8:	   [Pid: 4, Page: 9]		|
+|9:	   [Pid: 3, Page: 29]		|
+|10:	   [Pid: 2, Page: 33]		|
+|11:	   [Pid: 4, Page: 24]		|
+|12:	   [Pid: 3, Page: 19]		|
+|13:	   [Pid: 5, Page: 4]		|
+|14:	   [Pid: 6, Page: 23]		|
+|15:	   [Pid: 4, Page: 17]		|
+|16:	   [Pid: 3, Page: 44]		|
+|17:	   [Pid: 5, Page: 14]		|
+|18:	   [Pid: 6, Page: 13]		|
+|19:	   [Pid: 4, Page: 40]		|
+|20:	   [Pid: 5, Page: 6]		|
+|21:	   [Pid: 7, Page: 3]		|
+|22:	   [Pid: 6, Page: 10]		|
+|23:	   [Pid: 5, Page: 29]		|
+|24:	   [Pid: 8, Page: 2]		|
+|25:	   [Pid: 7, Page: 24]		|
+|26:	   [Pid: 6, Page: 44]		|
+|27:	   [Pid: 9, Page: 20]		|
+|28:	   [Pid: 8, Page: 48]		|
+|29:	   [Pid: 7, Page: 21]		|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Em memoria		|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Livre			|
+|14: 		Livre			|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Livre			|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Em memoria		|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Em memoria		|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Livre			|
+|28: 		Livre			|
+|29: 		Livre			|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Livre			|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Livre			|
+|44: 		Livre			|
+|45: 		Livre			|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+PROCESSO 1: Pedindo alocação da pagina 28
+
+LRU: [28, 32, 26, 43]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 32]		|
+|1:	   [Pid: 1, Page: 28]		|
+|2:	   [Pid: 2, Page: 45]		|
+|3:	   [Pid: 1, Page: 43]		|
+|4:	   [Pid: 3, Page: 27]		|
+|5:	   [Pid: 2, Page: 13]		|
+|6:	   [Pid: 2, Page: 5]		|
+|7:	   [Pid: 1, Page: 26]		|
+|8:	   [Pid: 4, Page: 9]		|
+|9:	   [Pid: 3, Page: 29]		|
+|10:	   [Pid: 2, Page: 33]		|
+|11:	   [Pid: 4, Page: 24]		|
+|12:	   [Pid: 3, Page: 19]		|
+|13:	   [Pid: 5, Page: 4]		|
+|14:	   [Pid: 6, Page: 23]		|
+|15:	   [Pid: 4, Page: 17]		|
+|16:	   [Pid: 3, Page: 44]		|
+|17:	   [Pid: 5, Page: 14]		|
+|18:	   [Pid: 6, Page: 13]		|
+|19:	   [Pid: 4, Page: 40]		|
+|20:	   [Pid: 5, Page: 6]		|
+|21:	   [Pid: 7, Page: 3]		|
+|22:	   [Pid: 6, Page: 10]		|
+|23:	   [Pid: 5, Page: 29]		|
+|24:	   [Pid: 8, Page: 2]		|
+|25:	   [Pid: 7, Page: 24]		|
+|26:	   [Pid: 6, Page: 44]		|
+|27:	   [Pid: 9, Page: 20]		|
+|28:	   [Pid: 8, Page: 48]		|
+|29:	   [Pid: 7, Page: 21]		|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Livre			|
+|14: 		Livre			|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Livre			|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Livre			|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Em memoria		|
+|27: 		Livre			|
+|28: 		Em memoria		|
+|29: 		Livre			|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Em memoria		|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Livre			|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Em memoria		|
+|44: 		Livre			|
+|45: 		Livre			|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+PROCESSO 5: Pedindo alocação da pagina 39
+
+LRU: [39, 4, 29, 6]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 32]		|
+|1:	   [Pid: 1, Page: 28]		|
+|2:	   [Pid: 2, Page: 45]		|
+|3:	   [Pid: 1, Page: 43]		|
+|4:	   [Pid: 3, Page: 27]		|
+|5:	   [Pid: 2, Page: 13]		|
+|6:	   [Pid: 2, Page: 5]		|
+|7:	   [Pid: 1, Page: 26]		|
+|8:	   [Pid: 4, Page: 9]		|
+|9:	   [Pid: 3, Page: 29]		|
+|10:	   [Pid: 2, Page: 33]		|
+|11:	   [Pid: 4, Page: 24]		|
+|12:	   [Pid: 3, Page: 19]		|
+|13:	   [Pid: 5, Page: 4]		|
+|14:	   [Pid: 6, Page: 23]		|
+|15:	   [Pid: 4, Page: 17]		|
+|16:	   [Pid: 3, Page: 44]		|
+|17:	   [Pid: 5, Page: 39]		|
+|18:	   [Pid: 6, Page: 13]		|
+|19:	   [Pid: 4, Page: 40]		|
+|20:	   [Pid: 5, Page: 6]		|
+|21:	   [Pid: 7, Page: 3]		|
+|22:	   [Pid: 6, Page: 10]		|
+|23:	   [Pid: 5, Page: 29]		|
+|24:	   [Pid: 8, Page: 2]		|
+|25:	   [Pid: 7, Page: 24]		|
+|26:	   [Pid: 6, Page: 44]		|
+|27:	   [Pid: 9, Page: 20]		|
+|28:	   [Pid: 8, Page: 48]		|
+|29:	   [Pid: 7, Page: 21]		|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Em memoria		|
+|5: 		Livre			|
+|6: 		Em memoria		|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Livre			|
+|14: 		Livre			|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Livre			|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Livre			|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Livre			|
+|28: 		Livre			|
+|29: 		Em memoria		|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Livre			|
+|38: 		Livre			|
+|39: 		Em memoria		|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Livre			|
+|44: 		Livre			|
+|45: 		Livre			|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+PROCESSO 2: Pedindo alocação da pagina 17
+
+LRU: [17, 33, 5, 13]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 32]		|
+|1:	   [Pid: 1, Page: 28]		|
+|2:	   [Pid: 2, Page: 17]		|
+|3:	   [Pid: 1, Page: 43]		|
+|4:	   [Pid: 3, Page: 27]		|
+|5:	   [Pid: 2, Page: 13]		|
+|6:	   [Pid: 2, Page: 5]		|
+|7:	   [Pid: 1, Page: 26]		|
+|8:	   [Pid: 4, Page: 9]		|
+|9:	   [Pid: 3, Page: 29]		|
+|10:	   [Pid: 2, Page: 33]		|
+|11:	   [Pid: 4, Page: 24]		|
+|12:	   [Pid: 3, Page: 19]		|
+|13:	   [Pid: 5, Page: 4]		|
+|14:	   [Pid: 6, Page: 23]		|
+|15:	   [Pid: 4, Page: 17]		|
+|16:	   [Pid: 3, Page: 44]		|
+|17:	   [Pid: 5, Page: 39]		|
+|18:	   [Pid: 6, Page: 13]		|
+|19:	   [Pid: 4, Page: 40]		|
+|20:	   [Pid: 5, Page: 6]		|
+|21:	   [Pid: 7, Page: 3]		|
+|22:	   [Pid: 6, Page: 10]		|
+|23:	   [Pid: 5, Page: 29]		|
+|24:	   [Pid: 8, Page: 2]		|
+|25:	   [Pid: 7, Page: 24]		|
+|26:	   [Pid: 6, Page: 44]		|
+|27:	   [Pid: 9, Page: 20]		|
+|28:	   [Pid: 8, Page: 48]		|
+|29:	   [Pid: 7, Page: 21]		|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+|5: 		Em memoria		|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Em memoria		|
+|14: 		Livre			|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Em memoria		|
+|18: 		Livre			|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Livre			|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Livre			|
+|28: 		Livre			|
+|29: 		Livre			|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Em memoria		|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Livre			|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Livre			|
+|44: 		Livre			|
+|45: 		Livre			|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+PROCESSO 6: Pedindo alocação da pagina 45
+
+LRU: [45, 44, 10, 13]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 32]		|
+|1:	   [Pid: 1, Page: 28]		|
+|2:	   [Pid: 2, Page: 17]		|
+|3:	   [Pid: 1, Page: 43]		|
+|4:	   [Pid: 3, Page: 27]		|
+|5:	   [Pid: 2, Page: 13]		|
+|6:	   [Pid: 2, Page: 5]		|
+|7:	   [Pid: 1, Page: 26]		|
+|8:	   [Pid: 4, Page: 9]		|
+|9:	   [Pid: 3, Page: 29]		|
+|10:	   [Pid: 2, Page: 33]		|
+|11:	   [Pid: 4, Page: 24]		|
+|12:	   [Pid: 3, Page: 19]		|
+|13:	   [Pid: 5, Page: 4]		|
+|14:	   [Pid: 6, Page: 45]		|
+|15:	   [Pid: 4, Page: 17]		|
+|16:	   [Pid: 3, Page: 44]		|
+|17:	   [Pid: 5, Page: 39]		|
+|18:	   [Pid: 6, Page: 13]		|
+|19:	   [Pid: 4, Page: 40]		|
+|20:	   [Pid: 5, Page: 6]		|
+|21:	   [Pid: 7, Page: 3]		|
+|22:	   [Pid: 6, Page: 10]		|
+|23:	   [Pid: 5, Page: 29]		|
+|24:	   [Pid: 8, Page: 2]		|
+|25:	   [Pid: 7, Page: 24]		|
+|26:	   [Pid: 6, Page: 44]		|
+|27:	   [Pid: 9, Page: 20]		|
+|28:	   [Pid: 8, Page: 48]		|
+|29:	   [Pid: 7, Page: 21]		|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Em memoria		|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Em memoria		|
+|14: 		Livre			|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Livre			|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Livre			|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Livre			|
+|28: 		Livre			|
+|29: 		Livre			|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Livre			|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Livre			|
+|44: 		Em memoria		|
+|45: 		Em memoria		|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+PROCESSO 4: Pedindo alocação da pagina 22
+
+LRU: [22, 24, 9, 40]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 32]		|
+|1:	   [Pid: 1, Page: 28]		|
+|2:	   [Pid: 2, Page: 17]		|
+|3:	   [Pid: 1, Page: 43]		|
+|4:	   [Pid: 3, Page: 27]		|
+|5:	   [Pid: 2, Page: 13]		|
+|6:	   [Pid: 2, Page: 5]		|
+|7:	   [Pid: 1, Page: 26]		|
+|8:	   [Pid: 4, Page: 9]		|
+|9:	   [Pid: 3, Page: 29]		|
+|10:	   [Pid: 2, Page: 33]		|
+|11:	   [Pid: 4, Page: 24]		|
+|12:	   [Pid: 3, Page: 19]		|
+|13:	   [Pid: 5, Page: 4]		|
+|14:	   [Pid: 6, Page: 45]		|
+|15:	   [Pid: 4, Page: 22]		|
+|16:	   [Pid: 3, Page: 44]		|
+|17:	   [Pid: 5, Page: 39]		|
+|18:	   [Pid: 6, Page: 13]		|
+|19:	   [Pid: 4, Page: 40]		|
+|20:	   [Pid: 5, Page: 6]		|
+|21:	   [Pid: 7, Page: 3]		|
+|22:	   [Pid: 6, Page: 10]		|
+|23:	   [Pid: 5, Page: 29]		|
+|24:	   [Pid: 8, Page: 2]		|
+|25:	   [Pid: 7, Page: 24]		|
+|26:	   [Pid: 6, Page: 44]		|
+|27:	   [Pid: 9, Page: 20]		|
+|28:	   [Pid: 8, Page: 48]		|
+|29:	   [Pid: 7, Page: 21]		|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Em memoria		|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Livre			|
+|14: 		Livre			|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Livre			|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Livre			|
+|22: 		Em memoria		|
+|23: 		Livre			|
+|24: 		Em memoria		|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Livre			|
+|28: 		Livre			|
+|29: 		Livre			|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Livre			|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Em memoria		|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Livre			|
+|44: 		Livre			|
+|45: 		Livre			|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+PROCESSO 3: Pedindo alocação da pagina 45
+
+LRU: [45, 19, 29, 27]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 32]		|
+|1:	   [Pid: 1, Page: 28]		|
+|2:	   [Pid: 2, Page: 17]		|
+|3:	   [Pid: 1, Page: 43]		|
+|4:	   [Pid: 3, Page: 27]		|
+|5:	   [Pid: 2, Page: 13]		|
+|6:	   [Pid: 2, Page: 5]		|
+|7:	   [Pid: 1, Page: 26]		|
+|8:	   [Pid: 4, Page: 9]		|
+|9:	   [Pid: 3, Page: 29]		|
+|10:	   [Pid: 2, Page: 33]		|
+|11:	   [Pid: 4, Page: 24]		|
+|12:	   [Pid: 3, Page: 19]		|
+|13:	   [Pid: 5, Page: 4]		|
+|14:	   [Pid: 6, Page: 45]		|
+|15:	   [Pid: 4, Page: 22]		|
+|16:	   [Pid: 3, Page: 45]		|
+|17:	   [Pid: 5, Page: 39]		|
+|18:	   [Pid: 6, Page: 13]		|
+|19:	   [Pid: 4, Page: 40]		|
+|20:	   [Pid: 5, Page: 6]		|
+|21:	   [Pid: 7, Page: 3]		|
+|22:	   [Pid: 6, Page: 10]		|
+|23:	   [Pid: 5, Page: 29]		|
+|24:	   [Pid: 8, Page: 2]		|
+|25:	   [Pid: 7, Page: 24]		|
+|26:	   [Pid: 6, Page: 44]		|
+|27:	   [Pid: 9, Page: 20]		|
+|28:	   [Pid: 8, Page: 48]		|
+|29:	   [Pid: 7, Page: 21]		|
+|30:		vazio			|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Livre			|
+|14: 		Livre			|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Livre			|
+|19: 		Em memoria		|
+|20: 		Livre			|
+|21: 		Livre			|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Em memoria		|
+|28: 		Livre			|
+|29: 		Em memoria		|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Livre			|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Livre			|
+|44: 		Livre			|
+|45: 		Em memoria		|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+Processo 10 criado
+PROCESSO 10: Pedindo alocação da pagina 34
+
+LRU: [34]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 32]		|
+|1:	   [Pid: 1, Page: 28]		|
+|2:	   [Pid: 2, Page: 17]		|
+|3:	   [Pid: 1, Page: 43]		|
+|4:	   [Pid: 3, Page: 27]		|
+|5:	   [Pid: 2, Page: 13]		|
+|6:	   [Pid: 2, Page: 5]		|
+|7:	   [Pid: 1, Page: 26]		|
+|8:	   [Pid: 4, Page: 9]		|
+|9:	   [Pid: 3, Page: 29]		|
+|10:	   [Pid: 2, Page: 33]		|
+|11:	   [Pid: 4, Page: 24]		|
+|12:	   [Pid: 3, Page: 19]		|
+|13:	   [Pid: 5, Page: 4]		|
+|14:	   [Pid: 6, Page: 45]		|
+|15:	   [Pid: 4, Page: 22]		|
+|16:	   [Pid: 3, Page: 45]		|
+|17:	   [Pid: 5, Page: 39]		|
+|18:	   [Pid: 6, Page: 13]		|
+|19:	   [Pid: 4, Page: 40]		|
+|20:	   [Pid: 5, Page: 6]		|
+|21:	   [Pid: 7, Page: 3]		|
+|22:	   [Pid: 6, Page: 10]		|
+|23:	   [Pid: 5, Page: 29]		|
+|24:	   [Pid: 8, Page: 2]		|
+|25:	   [Pid: 7, Page: 24]		|
+|26:	   [Pid: 6, Page: 44]		|
+|27:	   [Pid: 9, Page: 20]		|
+|28:	   [Pid: 8, Page: 48]		|
+|29:	   [Pid: 7, Page: 21]		|
+|30:	   [Pid: 10, Page: 34]		|
+|31:		vazio			|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Livre			|
+|14: 		Livre			|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Livre			|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Livre			|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Livre			|
+|28: 		Livre			|
+|29: 		Livre			|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Em memoria		|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Livre			|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Livre			|
+|44: 		Livre			|
+|45: 		Livre			|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+PROCESSO 9: Pedindo alocação da pagina 33
+
+LRU: [33, 20]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 32]		|
+|1:	   [Pid: 1, Page: 28]		|
+|2:	   [Pid: 2, Page: 17]		|
+|3:	   [Pid: 1, Page: 43]		|
+|4:	   [Pid: 3, Page: 27]		|
+|5:	   [Pid: 2, Page: 13]		|
+|6:	   [Pid: 2, Page: 5]		|
+|7:	   [Pid: 1, Page: 26]		|
+|8:	   [Pid: 4, Page: 9]		|
+|9:	   [Pid: 3, Page: 29]		|
+|10:	   [Pid: 2, Page: 33]		|
+|11:	   [Pid: 4, Page: 24]		|
+|12:	   [Pid: 3, Page: 19]		|
+|13:	   [Pid: 5, Page: 4]		|
+|14:	   [Pid: 6, Page: 45]		|
+|15:	   [Pid: 4, Page: 22]		|
+|16:	   [Pid: 3, Page: 45]		|
+|17:	   [Pid: 5, Page: 39]		|
+|18:	   [Pid: 6, Page: 13]		|
+|19:	   [Pid: 4, Page: 40]		|
+|20:	   [Pid: 5, Page: 6]		|
+|21:	   [Pid: 7, Page: 3]		|
+|22:	   [Pid: 6, Page: 10]		|
+|23:	   [Pid: 5, Page: 29]		|
+|24:	   [Pid: 8, Page: 2]		|
+|25:	   [Pid: 7, Page: 24]		|
+|26:	   [Pid: 6, Page: 44]		|
+|27:	   [Pid: 9, Page: 20]		|
+|28:	   [Pid: 8, Page: 48]		|
+|29:	   [Pid: 7, Page: 21]		|
+|30:	   [Pid: 10, Page: 34]		|
+|31:	   [Pid: 9, Page: 33]		|
+|32:		vazio			|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Livre			|
+|14: 		Livre			|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Livre			|
+|19: 		Livre			|
+|20: 		Em memoria		|
+|21: 		Livre			|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Livre			|
+|28: 		Livre			|
+|29: 		Livre			|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Em memoria		|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Livre			|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Livre			|
+|44: 		Livre			|
+|45: 		Livre			|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+PROCESSO 7: Pedindo alocação da pagina 1
+
+LRU: [1, 21, 24, 3]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 32]		|
+|1:	   [Pid: 1, Page: 28]		|
+|2:	   [Pid: 2, Page: 17]		|
+|3:	   [Pid: 1, Page: 43]		|
+|4:	   [Pid: 3, Page: 27]		|
+|5:	   [Pid: 2, Page: 13]		|
+|6:	   [Pid: 2, Page: 5]		|
+|7:	   [Pid: 1, Page: 26]		|
+|8:	   [Pid: 4, Page: 9]		|
+|9:	   [Pid: 3, Page: 29]		|
+|10:	   [Pid: 2, Page: 33]		|
+|11:	   [Pid: 4, Page: 24]		|
+|12:	   [Pid: 3, Page: 19]		|
+|13:	   [Pid: 5, Page: 4]		|
+|14:	   [Pid: 6, Page: 45]		|
+|15:	   [Pid: 4, Page: 22]		|
+|16:	   [Pid: 3, Page: 45]		|
+|17:	   [Pid: 5, Page: 39]		|
+|18:	   [Pid: 6, Page: 13]		|
+|19:	   [Pid: 4, Page: 40]		|
+|20:	   [Pid: 5, Page: 6]		|
+|21:	   [Pid: 7, Page: 3]		|
+|22:	   [Pid: 6, Page: 10]		|
+|23:	   [Pid: 5, Page: 29]		|
+|24:	   [Pid: 8, Page: 2]		|
+|25:	   [Pid: 7, Page: 24]		|
+|26:	   [Pid: 6, Page: 44]		|
+|27:	   [Pid: 9, Page: 20]		|
+|28:	   [Pid: 8, Page: 48]		|
+|29:	   [Pid: 7, Page: 21]		|
+|30:	   [Pid: 10, Page: 34]		|
+|31:	   [Pid: 9, Page: 33]		|
+|32:	   [Pid: 7, Page: 1]		|
+|33:		vazio			|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Em memoria		|
+|2: 		Livre			|
+|3: 		Em memoria		|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Livre			|
+|14: 		Livre			|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Livre			|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Em memoria		|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Em memoria		|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Livre			|
+|28: 		Livre			|
+|29: 		Livre			|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Livre			|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Livre			|
+|44: 		Livre			|
+|45: 		Livre			|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Livre			|
+|49: 		Livre			|
+
+
+SWAP: []
+
+PROCESSO 8: Pedindo alocação da pagina 9
+
+LRU: [9, 48, 2]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 32]		|
+|1:	   [Pid: 1, Page: 28]		|
+|2:	   [Pid: 2, Page: 17]		|
+|3:	   [Pid: 1, Page: 43]		|
+|4:	   [Pid: 3, Page: 27]		|
+|5:	   [Pid: 2, Page: 13]		|
+|6:	   [Pid: 2, Page: 5]		|
+|7:	   [Pid: 1, Page: 26]		|
+|8:	   [Pid: 4, Page: 9]		|
+|9:	   [Pid: 3, Page: 29]		|
+|10:	   [Pid: 2, Page: 33]		|
+|11:	   [Pid: 4, Page: 24]		|
+|12:	   [Pid: 3, Page: 19]		|
+|13:	   [Pid: 5, Page: 4]		|
+|14:	   [Pid: 6, Page: 45]		|
+|15:	   [Pid: 4, Page: 22]		|
+|16:	   [Pid: 3, Page: 45]		|
+|17:	   [Pid: 5, Page: 39]		|
+|18:	   [Pid: 6, Page: 13]		|
+|19:	   [Pid: 4, Page: 40]		|
+|20:	   [Pid: 5, Page: 6]		|
+|21:	   [Pid: 7, Page: 3]		|
+|22:	   [Pid: 6, Page: 10]		|
+|23:	   [Pid: 5, Page: 29]		|
+|24:	   [Pid: 8, Page: 2]		|
+|25:	   [Pid: 7, Page: 24]		|
+|26:	   [Pid: 6, Page: 44]		|
+|27:	   [Pid: 9, Page: 20]		|
+|28:	   [Pid: 8, Page: 48]		|
+|29:	   [Pid: 7, Page: 21]		|
+|30:	   [Pid: 10, Page: 34]		|
+|31:	   [Pid: 9, Page: 33]		|
+|32:	   [Pid: 7, Page: 1]		|
+|33:	   [Pid: 8, Page: 9]		|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Em memoria		|
+|3: 		Livre			|
+|4: 		Livre			|
+|5: 		Livre			|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Em memoria		|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Livre			|
+|14: 		Livre			|
+|15: 		Livre			|
+|16: 		Livre			|
+|17: 		Livre			|
+|18: 		Livre			|
+|19: 		Livre			|
+|20: 		Livre			|
+|21: 		Livre			|
+|22: 		Livre			|
+|23: 		Livre			|
+|24: 		Livre			|
+|25: 		Livre			|
+|26: 		Livre			|
+|27: 		Livre			|
+|28: 		Livre			|
+|29: 		Livre			|
+|30: 		Livre			|
+|31: 		Livre			|
+|32: 		Livre			|
+|33: 		Livre			|
+|34: 		Livre			|
+|35: 		Livre			|
+|36: 		Livre			|
+|37: 		Livre			|
+|38: 		Livre			|
+|39: 		Livre			|
+|40: 		Livre			|
+|41: 		Livre			|
+|42: 		Livre			|
+|43: 		Livre			|
+|44: 		Livre			|
+|45: 		Livre			|
+|46: 		Livre			|
+|47: 		Livre			|
+|48: 		Em memoria		|
+|49: 		Livre			|
+
+
+SWAP: []
+
+PROCESSO 4: Pedindo alocação da pagina 10
+
+PROCESSO 5: Pedindo alocação da pagina 43
+
+LRU: [43, 39, 4, 29]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 32]		|
+|1:	   [Pid: 1, Page: 28]		|
+|2:	   [Pid: 2, Page: 17]		|
+|3:	   [Pid: 1, Page: 43]		|
+|4:	   [Pid: 3, Page: 27]		|
+|5:	   [Pid: 2, Page: 13]		|
+|6:	   [Pid: 2, Page: 5]		|
+|7:	   [Pid: 1, Page: 26]		|
+|8:	   [Pid: 4, Page: 9]		|
+|9:	   [Pid: 3, Page: 29]		|
+|10:	   [Pid: 2, Page: 33]		|
+|11:	   [Pid: 4, Page: 24]		|
+|12:	   [Pid: 3, Page: 19]		|
+|13:	   [Pid: 5, Page: 4]		|
+|14:	   [Pid: 6, Page: 45]		|
+|15:	   [Pid: 4, Page: 22]		|
+|16:	   [Pid: 3, Page: 45]		|
+|17:	   [Pid: 5, Page: 39]		|
+|18:	   [Pid: 6, Page: 13]		|
+|19:	   [Pid: 4, Page: 10]		|
+|20:	   [Pid: 5, Page: 43]		|
+|21:	   [Pid: 7, Page: 3]		|
+|22:	   [Pid: 6, Page: 10]		|
+|23:	   [Pid: 5, Page: 29]		|
+|24:	   [Pid: 8, Page: 2]		|
+|25:	   [Pid: 7, Page: 24]		|
+|26:	   [Pid: 6, Page: 44]		|
+|27:	   [Pid: 9, Page: 20]		|
+|28:	   [Pid: 8, Page: 48]		|
+|29:	   [Pid: 7, Page: 21]		|
+|30:	   [Pid: 10, Page: 34]		|
+|31:	   [Pid: 9, Page: 33]		|
+|32:	   [Pid: 7, Page: 1]		|
+|33:	   [Pid: 8, Page: 9]		|
+|34:		vazio			|
+|35:		vazio			|
+|36:		vazio			|
+|37:		vazio			|
+|38:		vazio			|
+|39:		vazio			|
+|40:		vazio			|
+|41:		vazio			|
+|42:		vazio			|
+|43:		vazio			|
+|44:		vazio			|
+|45:		vazio			|
+|46:		vazio			|
+|47:		vazio			|
+|48:		vazio			|
+|49:		vazio			|
+|50:		vazio			|
+|51:		vazio			|
+|52:		vazio			|
+|53:		vazio			|
+|54:		vazio			|
+|55:		vazio			|
+|56:		vazio			|
+|57:		vazio			|
+|58:		vazio			|
+|59:		vazio			|
+|60:		vazio			|
+|61:		vazio			|
+|62:		vazio			|
+|63:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Em memoria		|
+|5: 		Livre			|
+|6: 		Livre			|
+|7: 		Livre			|
+|8: 		Livre			|
+|9: 		Livre			|
+|10: 		Livre			|
+|11: 		Livre			|
+|12: 		Livre			|
+|13: 		Livre			|
+|14: 		Livre

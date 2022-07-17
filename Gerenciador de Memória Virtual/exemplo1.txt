@@ -1,0 +1,488 @@
+Processo 1 criado
+PROCESSO 1: Pedindo alocação da pagina 1
+
+LRU: [1]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 1]		|
+|1:		vazio			|
+|2:		vazio			|
+|3:		vazio			|
+|4:		vazio			|
+|5:		vazio			|
+|6:		vazio			|
+|7:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Em memoria		|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+
+
+SWAP: []
+
+PROCESSO 1: Pedindo alocação da pagina 1
+
+LRU: [1]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 1]		|
+|1:		vazio			|
+|2:		vazio			|
+|3:		vazio			|
+|4:		vazio			|
+|5:		vazio			|
+|6:		vazio			|
+|7:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Em memoria		|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+
+
+SWAP: []
+
+Processo 2 criado
+PROCESSO 2: Pedindo alocação da pagina 2
+
+LRU: [2]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 1]		|
+|1:	   [Pid: 2, Page: 2]		|
+|2:		vazio			|
+|3:		vazio			|
+|4:		vazio			|
+|5:		vazio			|
+|6:		vazio			|
+|7:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Em memoria		|
+|3: 		Livre			|
+|4: 		Livre			|
+
+
+SWAP: []
+
+PROCESSO 1: Pedindo alocação da pagina 4
+
+LRU: [4, 1]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 1]		|
+|1:	   [Pid: 2, Page: 2]		|
+|2:	   [Pid: 1, Page: 4]		|
+|3:		vazio			|
+|4:		vazio			|
+|5:		vazio			|
+|6:		vazio			|
+|7:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Em memoria		|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Em memoria		|
+
+
+SWAP: []
+
+PROCESSO 2: Pedindo alocação da pagina 1
+
+LRU: [1, 2]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 1, Page: 1]		|
+|1:	   [Pid: 2, Page: 2]		|
+|2:	   [Pid: 1, Page: 4]		|
+|3:	   [Pid: 2, Page: 1]		|
+|4:		vazio			|
+|5:		vazio			|
+|6:		vazio			|
+|7:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Em memoria		|
+|2: 		Em memoria		|
+|3: 		Livre			|
+|4: 		Livre			|
+
+
+SWAP: []
+
+Processo 3 criado
+PROCESSO 3: Pedindo alocação da pagina 3
+
+LRU: [3]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 3, Page: 3]		|
+|1:	   [Pid: 2, Page: 2]		|
+|2:		vazio			|
+|3:	   [Pid: 2, Page: 1]		|
+|4:		vazio			|
+|5:		vazio			|
+|6:		vazio			|
+|7:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Em memoria		|
+|4: 		Livre			|
+
+
+SWAP: [processo 1, ]
+
+PROCESSO 1: Pedindo alocação da pagina 2
+
+LRU: [2]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 3, Page: 3]		|
+|1:	   [Pid: 1, Page: 2]		|
+|2:		vazio			|
+|3:		vazio			|
+|4:		vazio			|
+|5:		vazio			|
+|6:		vazio			|
+|7:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Em memoria		|
+|3: 		Livre			|
+|4: 		Livre			|
+
+
+SWAP: [processo 1, ]
+
+PROCESSO 2: Pedindo alocação da pagina 1
+
+LRU: [1]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 3, Page: 3]		|
+|1:	   [Pid: 2, Page: 1]		|
+|2:		vazio			|
+|3:		vazio			|
+|4:		vazio			|
+|5:		vazio			|
+|6:		vazio			|
+|7:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Em memoria		|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+
+
+SWAP: [processo 1, ]
+
+PROCESSO 3: Pedindo alocação da pagina 1
+
+LRU: [1, 3]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 3, Page: 3]		|
+|1:	   [Pid: 2, Page: 1]		|
+|2:	   [Pid: 3, Page: 1]		|
+|3:		vazio			|
+|4:		vazio			|
+|5:		vazio			|
+|6:		vazio			|
+|7:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Em memoria		|
+|2: 		Livre			|
+|3: 		Em memoria		|
+|4: 		Livre			|
+
+
+SWAP: [processo 1, ]
+
+PROCESSO 1: Pedindo alocação da pagina 1
+
+LRU: [1]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 3, Page: 3]		|
+|1:	   [Pid: 1, Page: 1]		|
+|2:	   [Pid: 3, Page: 1]		|
+|3:		vazio			|
+|4:		vazio			|
+|5:		vazio			|
+|6:		vazio			|
+|7:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Em memoria		|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+
+
+SWAP: [processo 2, ]
+
+PROCESSO 2: Pedindo alocação da pagina 2
+
+LRU: [2]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 3, Page: 3]		|
+|1:	   [Pid: 2, Page: 2]		|
+|2:	   [Pid: 3, Page: 1]		|
+|3:		vazio			|
+|4:		vazio			|
+|5:		vazio			|
+|6:		vazio			|
+|7:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Em memoria		|
+|3: 		Livre			|
+|4: 		Livre			|
+
+
+SWAP: [processo 1, ]
+
+PROCESSO 3: Pedindo alocação da pagina 1
+
+LRU: [1, 3]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 3, Page: 3]		|
+|1:	   [Pid: 2, Page: 2]		|
+|2:	   [Pid: 3, Page: 1]		|
+|3:		vazio			|
+|4:		vazio			|
+|5:		vazio			|
+|6:		vazio			|
+|7:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Em memoria		|
+|2: 		Livre			|
+|3: 		Em memoria		|
+|4: 		Livre			|
+
+
+SWAP: [processo 1, ]
+
+PROCESSO 2: Pedindo alocação da pagina 3
+
+LRU: [3, 2]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 3, Page: 3]		|
+|1:	   [Pid: 2, Page: 2]		|
+|2:	   [Pid: 3, Page: 1]		|
+|3:	   [Pid: 2, Page: 3]		|
+|4:		vazio			|
+|5:		vazio			|
+|6:		vazio			|
+|7:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Em memoria		|
+|3: 		Em memoria		|
+|4: 		Livre			|
+
+
+SWAP: [processo 1, ]
+
+PROCESSO 1: Pedindo alocação da pagina 3
+
+LRU: [3]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 3, Page: 3]		|
+|1:	   [Pid: 1, Page: 3]		|
+|2:	   [Pid: 3, Page: 1]		|
+|3:		vazio			|
+|4:		vazio			|
+|5:		vazio			|
+|6:		vazio			|
+|7:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Em memoria		|
+|4: 		Livre			|
+
+
+SWAP: [processo 2, ]
+
+PROCESSO 3: Pedindo alocação da pagina 3
+
+LRU: [3, 1]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 3, Page: 3]		|
+|1:	   [Pid: 1, Page: 3]		|
+|2:	   [Pid: 3, Page: 1]		|
+|3:		vazio			|
+|4:		vazio			|
+|5:		vazio			|
+|6:		vazio			|
+|7:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Em memoria		|
+|2: 		Livre			|
+|3: 		Em memoria		|
+|4: 		Livre			|
+
+
+SWAP: [processo 2, ]
+
+PROCESSO 1: Pedindo alocação da pagina 4
+
+LRU: [4, 3]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 3, Page: 3]		|
+|1:	   [Pid: 1, Page: 3]		|
+|2:	   [Pid: 3, Page: 1]		|
+|3:	   [Pid: 1, Page: 4]		|
+|4:		vazio			|
+|5:		vazio			|
+|6:		vazio			|
+|7:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Em memoria		|
+|4: 		Em memoria		|
+
+
+SWAP: [processo 2, ]
+
+PROCESSO 2: Pedindo alocação da pagina 0
+
+LRU: [0]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 3, Page: 3]		|
+|1:	   [Pid: 2, Page: 0]		|
+|2:	   [Pid: 3, Page: 1]		|
+|3:		vazio			|
+|4:		vazio			|
+|5:		vazio			|
+|6:		vazio			|
+|7:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Em memoria		|
+|1: 		Livre			|
+|2: 		Livre			|
+|3: 		Livre			|
+|4: 		Livre			|
+
+
+SWAP: [processo 1, ]
+
+PROCESSO 3: Pedindo alocação da pagina 1
+
+LRU: [1, 3]
+
+
+|		MEMORIA 		|
+|---------------------------------------|
+|0:	   [Pid: 3, Page: 3]		|
+|1:	   [Pid: 2, Page: 0]		|
+|2:	   [Pid: 3, Page: 1]		|
+|3:		vazio			|
+|4:		vazio			|
+|5:		vazio			|
+|6:		vazio			|
+|7:		vazio			|
+
+	    Tabela de Paginas: 
+|---------------------------------------|
+|0: 		Livre			|
+|1: 		Em memoria		|
+|2: 		Livre			|
+|3: 		Em memoria		|
+|4: 		Livre			|
+
+
+SWAP: [processo 1, ]
